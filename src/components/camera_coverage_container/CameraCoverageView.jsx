@@ -13,6 +13,7 @@ import L from "leaflet";
 // import { EditControl } from "react-leaflet-draw";
 import "leaflet-semicircle";
 import Select from "react-select";
+import HeaderButton from "../../header_button/HeaderButton";
 
 // Import the CCTV and WiFi icons
 import bulletCamIconUrl from "../../assets/cctvs/bulletcam.jpg";
@@ -204,21 +205,15 @@ function CameraCoverageView() {
           </div>
 
           {/* Add Camera Point Button */}
-          <button
-            onClick={addCCTVPoint}
-            disabled={!selectedModel}
-            style={{
-              width: "100%",
-              padding: "10px",
-              backgroundColor: selectedModel ? "blue" : "gray",
-              color: "white",
-              border: "none",
-              borderRadius: "5px",
-              marginBottom: "15px",
-            }}
-          >
-            Add Camera Point
-          </button>
+          <HeaderButton
+                    onClick={addCCTVPoint} // Function to handle the button click
+          title="Add Router Point" // Text displayed when hovering over the button
+          name="Add Router Point" // Name identifier for the button
+          className="sidebar-button" // CSS class for styling
+          icon={null} // Optional; can pass an icon or leave as null
+          disabled={!selectedModel} // Optional; controls whether the button is disabled
+          type="button" // Optional; default type for a button
+         />
         </div>
 
         {/* Map Container- contains floormap using react leaflet */}
