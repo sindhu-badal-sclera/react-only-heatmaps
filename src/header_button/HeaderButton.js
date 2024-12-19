@@ -1,6 +1,6 @@
 import React from 'react';
 import "./header_button.css";
-import ButtonLoader from "components/loaders/buttonloader/Buttonloader";
+import ButtonLoader from '../components/buttonloader/Buttonloader'
 
 const HeaderButton = ({ title, loading, onClick, name, icon, className, disabled, type }) => {
     return (
