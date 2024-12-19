@@ -12,23 +12,22 @@ import "leaflet/dist/leaflet.css";
 import L from "leaflet";
 // import { EditControl } from "react-leaflet-draw";
 import "leaflet-semicircle";
+import Select from "react-select";
 
- 
 // Import the CCTV and WiFi icons
 import bulletCamIconUrl from "../../assets/cctvs/bulletcam.jpg";
 import unvCamIconUrl from "../../assets/cctvs/Unvcam.jpg";
- 
 
 const bulletCameraIcon = new L.Icon({
   iconUrl: bulletCamIconUrl,
   iconSize: [35, 35],
 });
- 
+
 const unvCameraIcon = new L.Icon({
   iconUrl: unvCamIconUrl,
   iconSize: [25, 25],
 });
- 
+
 function SemiCircleComponent({
   position,
   radius,
@@ -38,10 +37,9 @@ function SemiCircleComponent({
   fillOpacity = 0.3,
 }) {
   const map = useMap();
- 
+
   useEffect(() => {
     if (!map) return;
- 
     // Create the semicircle with dynamic rotation
     const semiCircle = L.semiCircle(position, {
       radius,
@@ -53,9 +51,7 @@ function SemiCircleComponent({
       fillOpacity: fillOpacity,
       weight: 0,
     });
- 
     semiCircle.addTo(map);
- 
     // Cleanup on unmount
     return () => {
       map.removeLayer(semiCircle);
@@ -69,21 +65,20 @@ function SemiCircleComponent({
     rotationAngle,
     fillOpacity,
   ]);
- 
   return null;
 }
 
 function CameraCoverageView() {
-
   const imageWidth = 1920;
   const imageHeight = 1080;
- 
+
   // Predefined camera models with enhanced details
   const cameraModels = [
     {
       name: "Bullet Camera",
       label: "Bullet",
       startFov: 0,
+      value: 70,
       maxFoV: 70,
       maxDistance: 380,
       icon: bulletCameraIcon,
@@ -91,8 +86,9 @@ function CameraCoverageView() {
     },
     {
       name: "UNV Camera",
-      label:"Unv",
+      label: "Unv",
       startFov: 0,
+      value: 90,
       maxFoV: 90,
       maxDistance: 320,
       icon: unvCameraIcon,
@@ -100,9 +96,8 @@ function CameraCoverageView() {
     },
   ];
 
- 
-  // Initial state 
-  const [cctvPoints, setCCTVPoints] = useState([]); 
+  // Initial state
+  const [cctvPoints, setCCTVPoints] = useState([]);
   // const [polylines, setPolylines] = useState([]); // For storing drawn polyline coordinates
   const [selectedModel, setSelectedModel] = useState(null);
   console.log(cctvPoints);
@@ -110,7 +105,7 @@ function CameraCoverageView() {
     [0, 0],
     [imageHeight, imageWidth],
   ];
- 
+
   const addCCTVPoint = () => {
     if (selectedModel) {
       setCCTVPoints((prevPoints) => [
@@ -126,21 +121,21 @@ function CameraCoverageView() {
       alert("Please select a camera model first!");
     }
   };
- 
+
   const handleMarkerDragEnd = (event, index) => {
     let { lat, lng } = event.target.getLatLng();
- 
+
     // fix the coordinates to bounds of the image
     lat = Math.min(Math.max(lat, 0), imageHeight);
     lng = Math.min(Math.max(lng, 0), imageWidth);
- 
+
     setCCTVPoints((prevPoints) => {
       const newPoints = [...prevPoints];
       newPoints[index].position = [lat, lng];
       return newPoints;
     });
   };
- 
+
   const updateCameraSettings = (index, updates) => {
     setCCTVPoints((prevPoints) => {
       const newPoints = [...prevPoints];
@@ -148,12 +143,12 @@ function CameraCoverageView() {
       return newPoints;
     });
   };
- 
+
   const deleteMarker = (index) => {
     setCCTVPoints((prevPoints) => prevPoints.filter((_, i) => i !== index));
   };
 
-  console.log(cctvPoints)
+  console.log(cctvPoints);
 
   // Handle Polyline Creation
   // const handlePolylineCreated = (e) => {
@@ -181,75 +176,65 @@ function CameraCoverageView() {
 
   return (
     <>
-    <div style={{ height: "100vh", width: "100vw", display: "flex" }}>
-      {/* sidebar and dropdown for different camera models and their specifications */}
-      <div
-        style={{
-          width: "300px",
-          padding: "10px",
-          backgroundColor: "#303030",
-          color: "white",
-          overflowY: "auto",
-        }}
-      >
-        <h3>Camera Configuration</h3>
- 
-        {/* selecting the camera model */}
-        <div style={{ marginBottom: "15px" }}>
-          <label>Select Camera Model:</label>
-          
-            <select
-            value={selectedModel ? selectedModel.name : ""}
-            onChange={(e) => {
-              const model = cameraModels.find((m) => m.name === e.target.value);
-              setSelectedModel(model);
-            }}
-            style={{ width: "100%", padding: "5px", marginTop: "5px" }}
-          >
-            <option value="" disabled>
-              Choose Camera Type
-            </option>
-            {cameraModels.map((model, index) => (
-              <option key={index} value={model.name}>
-                {model.name} (FoV: {model.maxFoV}°, Range: {model.maxDistance}m)
-              </option>
-            ))}
-          </select>
-           
-        </div>
- 
-        {/* Add Camera Point Button */}
-        <button
-          onClick={addCCTVPoint}
-          disabled={!selectedModel}
+      <div style={{ height: "100vh", width: "100vw", display: "flex" }}>
+        {/* sidebar and dropdown for different camera models and their specifications */}
+        <div
           style={{
-            width: "100%",
+            width: "300px",
             padding: "10px",
-            backgroundColor: selectedModel ? "blue" : "gray",
+            backgroundColor: "#303030",
             color: "white",
-            border: "none",
-            borderRadius: "5px",
-            marginBottom: "15px",
+            overflowY: "auto",
           }}
         >
-          Add Camera Point
-        </button>
-      </div>
- 
-      {/* Map Container- contains floormap using react leaflet */}
-      <MapContainer
-        zoom={-1}
-        center={[imageHeight / 2, imageWidth / 2]}
-        minZoom={-2}
-        bounds={bounds}
-        style={{ height: "100%", width: "100%" }}
-        crs={L.CRS.Simple}
-      >
-        <ImageOverlay zIndex={1} url={floorplan} bounds={bounds} />
+          <h3>Camera Configuration</h3>
 
-        {/* <FeatureGroup>
+          {/* selecting the camera model */}
+          <div style={{ marginBottom: "15px" }}>
+            <label>Select Camera Model:</label>
+            <Select
+              options={cameraModels.map((model) => ({
+                value: model,
+                label: `${model.name} (FoV: ${model.maxFoV}°, Range: ${model.maxDistance}m)`,
+              }))}
+              onChange={(selectedOption) =>
+                setSelectedModel(selectedOption.value)
+              }
+            />
+          </div>
+
+          {/* Add Camera Point Button */}
+          <button
+            onClick={addCCTVPoint}
+            disabled={!selectedModel}
+            style={{
+              width: "100%",
+              padding: "10px",
+              backgroundColor: selectedModel ? "blue" : "gray",
+              color: "white",
+              border: "none",
+              borderRadius: "5px",
+              marginBottom: "15px",
+            }}
+          >
+            Add Camera Point
+          </button>
+        </div>
+
+        {/* Map Container- contains floormap using react leaflet */}
+        <MapContainer
+          zoom={-1}
+          center={[imageHeight / 2, imageWidth / 2]}
+          minZoom={-2}
+          bounds={bounds}
+          style={{ height: "100%", width: "100%" }}
+          crs={L.CRS.Simple}
+        >
+          <ImageOverlay zIndex={1} url={floorplan} bounds={bounds} />
+
+          {/* <FeatureGroup>
             {/* Drawing Controls */}
-            {/* <EditControl
+          {/* <EditControl
               position="topright"
               onCreated={handlePolylineCreated}
               onDeleted={handlePolylineDeleted}
@@ -267,79 +252,74 @@ function CameraCoverageView() {
                 polygon: false,
               }}
             /> */}
-          {/* </FeatureGroup> */} 
- 
-        {cctvPoints.map(
-          (
-            { position, model, rotationAngle = 0, fillOpacity = 0.3 },
-            index
-          ) => (
-            <Marker
-              key={index}
-              position={position}
-              icon={model.icon}
-              draggable={true}
-              eventHandlers={{
-                dragend: (event) => handleMarkerDragEnd(event, index),
-              }}
-            >
-              <Popup>
-                <div style={{ minWidth: "250px" }}>
-                  <h4>{model.name} Details</h4>
- 
-                  {/* Rotation Control to camera angles */}
-                  <div style={{ marginBottom: "10px" }}>
-                    
-                    <label>Swipe to Rotate</label>
-                    <input
-                      type="range"
-                      min="0"
-                      max="360"
-                      value={rotationAngle}
-                      onChange={(e) =>
-                        updateCameraSettings(index, {
-                          rotationAngle: Number(e.target.value),
-                        })
-                      }
-                      style={{ width: "100%" }}
-                    />
-                  </div>
+          {/* </FeatureGroup> */}
 
-                {/* Delete camera button */}
-                  <button
-                    onClick={() => deleteMarker(index)}
-                    style={{
-                      backgroundColor: "red",
-                      color: "white",
-                      padding: "5px 10px",
-                      border: "none",
-                      borderRadius: "5px",
-                    }}
-                  >
-                    Delete Camera
-                  </button>
-                </div>
-              </Popup>
- 
-              <SemiCircleComponent
+          {cctvPoints.map(
+            (
+              { position, model, rotationAngle = 0, fillOpacity = 0.3 },
+              index
+            ) => (
+              <Marker
+                key={index}
                 position={position}
-                radius={model.maxDistance}
-                startAngle={0}
-                stopAngle={model.maxFoV}
-                
-                rotationAngle={rotationAngle}
-                 fillOpacity={fillOpacity}
-               
-              />
-            </Marker>
-          )
-        )}
-      </MapContainer>
-    </div>
+                icon={model.icon}
+                draggable={true}
+                eventHandlers={{
+                  dragend: (event) => handleMarkerDragEnd(event, index),
+                }}
+              >
+                <Popup>
+                  <div style={{ minWidth: "250px" }}>
+                    <h4>{model.name} Details</h4>
+
+                    {/* Rotation Control to camera angles */}
+                    <div style={{ marginBottom: "10px" }}>
+                      <label>Swipe to Rotate</label>
+                      <input
+                        type="range"
+                        min="0"
+                        max="360"
+                        value={rotationAngle}
+                        onChange={(e) =>
+                          updateCameraSettings(index, {
+                            rotationAngle: Number(e.target.value),
+                          })
+                        }
+                        style={{ width: "100%" }}
+                      />
+                    </div>
+
+                    {/* Delete camera button */}
+                    <button
+                      onClick={() => deleteMarker(index)}
+                      style={{
+                        backgroundColor: "red",
+                        color: "white",
+                        padding: "5px 10px",
+                        border: "none",
+                        borderRadius: "5px",
+                      }}
+                    >
+                      Delete Camera
+                    </button>
+                  </div>
+                </Popup>
+
+                <SemiCircleComponent
+                  position={position}
+                  radius={model.maxDistance}
+                  startAngle={0}
+                  stopAngle={model.maxFoV}
+                  rotationAngle={rotationAngle}
+                  fillOpacity={fillOpacity}
+                />
+              </Marker>
+            )
+          )}
+        </MapContainer>
+      </div>
     </>
-  )
+  );
 }
 
-export default CameraCoverageView
-
-
+export default CameraCoverageView;
