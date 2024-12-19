@@ -1,0 +1,82 @@
+/* .heatmap-container {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background: #102e37;
+    animation: colorAnimate 8s linear infinite;
+  }
+  
+  .add-router-button {
+    position: absolute;
+    z-index: 1000;
+    top: 50px;
+    left: 70px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-router-button:hover {
+    background-color: #0056b3;
+  } */
+
+  .heatmap-container {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background: #102e37;
+  }
+  
+  .add-router-button {
+    position: absolute;
+    z-index: 1000;
+    top: 50px;
+    left: 70px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-router-button:hover {
+    background-color: #0056b3;
+  }
+  
+  
+  .animated-map-container {
+    filter: hue-rotate(0deg);
+    animation: hueRotateAnimation 8s linear infinite;
+  }
+  
+  @keyframes hueRotateAnimation {
+    100% {
+      filter: hue-rotate(360deg);
+    }
+  }
+  
+  .pulsing-circle {
+    animation: pulseAnimate 4s ease-out infinite;
+  }
+  
+  @keyframes pulseAnimate {
+    0% {
+      r: 5%;
+      opacity: 1;
+    }
+    100% {
+      r: 20%;
+      opacity: 1;
+    }
+  }
+  
+  @keyframes colorAnimate {
+    100% {
+      filter: hue-rotate(360deg);
+    }
+  }
+  

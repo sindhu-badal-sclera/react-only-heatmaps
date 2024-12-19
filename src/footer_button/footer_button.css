@@ -1,0 +1,38 @@
+.footer-button {
+	background: var(--btn-bg);
+	color: var(--btn-txt);
+	border-radius: 1rem;
+	border: none;
+	outline: none;
+	margin: 0 0.5rem;
+	display: flex;
+	align-items: center;
+	align-self: center;
+	font-size: 0.6875rem;
+	transition: 0.5s ease-in-out;
+	cursor: pointer;
+	padding: 0.3125rem 0.8rem;
+}
+.footer-button:hover {
+	transform: scale(1.1);
+}
+.footer-button svg {
+	width: 18px;
+	height: 12px;
+	margin-right: 0.2rem;
+}
+.button_iconAfterText svg {
+	margin-right: 0;
+	margin-left: 0.2rem;
+}
+.footer-button path {
+	fill: var(--btn-txt);
+}
+.footer-button-disabled {
+	background-color: var(--active-bg) !important;
+	cursor: unset !important;
+	color: var(--secondary-color) !important;
+}
+.footer-button-disabled svg path {
+	fill: var(--secondary-color);
+}
