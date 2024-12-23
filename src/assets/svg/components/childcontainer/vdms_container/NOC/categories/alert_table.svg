@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150.965" height="132.035" viewBox="0 0 150.965 132.035">
+  <g id="alert_table" transform="translate(0 0)">
+    <path id="Icon_metro-table" data-name="Icon metro-table" d="M2.571,3.856V134.1H151.426V3.856H2.571ZM58.391,87.587V59.677H95.605v27.91Zm37.214,9.3V124.8H58.391V96.89Zm0-74.428v27.91H58.391V22.463Zm-46.517,0v27.91H11.874V22.463ZM11.874,59.677H49.088v27.91H11.874Zm93.034,0h37.214v27.91H104.909Zm0-9.3V22.463h37.214v27.91ZM11.874,96.89H49.088V124.8H11.874V96.89Zm93.034,27.91V96.89h37.214V124.8Z" transform="translate(-0.461 -3.856)" fill="#dcdcdc"/>
+    <g id="Group_35" data-name="Group 35" transform="translate(0 63.463)">
+      <path id="Path_31" data-name="Path 31" d="M0,0H68.571V68.571H0Z"/>
+      <path id="Icon_material-access-alarm" data-name="Icon material-access-alarm" d="M66.3,15.006,51.738,2.79,47.656,7.632,62.214,19.849ZM21.609,7.632,17.558,2.79,3,14.975l4.083,4.842L21.609,7.632Zm14.622,14.59H31.484V41.211l15.033,9.02,2.374-3.893-12.659-7.5ZM34.648,9.563A28.484,28.484,0,1,0,63.132,38.046,28.486,28.486,0,0,0,34.648,9.563Zm0,50.638A22.154,22.154,0,1,1,56.8,38.046,22.138,22.138,0,0,1,34.648,60.2Z" transform="translate(-0.89 0.255)" fill="#3693ff"/>
+    </g>
+  </g>
+</svg>

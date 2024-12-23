@@ -1,0 +1,9 @@
+<svg id="vibration" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58.619" height="47.438" viewBox="0 0 58.619 47.438">
+  <defs>
+    <linearGradient id="linear-gradient8767jhngbyjfg55tby" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ffb2"/>
+      <stop offset="1" stop-color="#009165"/>
+    </linearGradient>
+  </defs>
+  <path id="rect4316" d="M16.059,2a1.977,1.977,0,0,0-1.977,1.976V47.462a1.977,1.977,0,0,0,1.976,1.977H43.732a1.977,1.977,0,0,0,1.977-1.976V3.977A1.977,1.977,0,0,0,43.732,2ZM4.778,8.509l-2.8,2.8L4.539,13.86.586,17.813l3.953,3.953L.586,25.719l3.953,3.953L1.983,32.228l2.8,2.8,5.351-5.351L6.176,25.719l3.953-3.953L6.176,17.813l3.953-3.953Zm50.234,0L49.661,13.86l3.953,3.953-3.953,3.953,3.953,3.953-3.953,3.953,5.351,5.351,2.795-2.8-2.555-2.556L59.2,25.719l-3.953-3.953L59.2,17.813,55.252,13.86,57.807,11.3Z" transform="translate(-0.586 -2)" fill="url(#linear-gradient8767jhngbyjfg55tby)"/>
+</svg>

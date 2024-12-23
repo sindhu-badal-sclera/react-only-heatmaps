@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.335" height="26.335" viewBox="0 0 26.335 26.335">
+  <g id="other_port" transform="translate(-13.75 -13.75)">
+    <path id="Path_3117" data-name="Path 3117" d="M36.453,13.75H17.382a3.637,3.637,0,0,0-3.632,3.632v19.07a3.637,3.637,0,0,0,3.632,3.632h19.07a3.637,3.637,0,0,0,3.632-3.632V17.382A3.637,3.637,0,0,0,36.453,13.75Zm2.179,22.7a2.182,2.182,0,0,1-2.179,2.179H17.382A2.182,2.182,0,0,1,15.2,36.453V17.382A2.182,2.182,0,0,1,17.382,15.2h19.07a2.182,2.182,0,0,1,2.179,2.179Z" fill="#35c900"/>
+    <g id="Ellipse_637" data-name="Ellipse 637" transform="translate(17.951 18.352)" fill="none" stroke="#35c900" stroke-width="1">
+      <circle cx="9" cy="9" r="9" stroke="none"/>
+      <circle cx="9" cy="9" r="8.5" fill="none"/>
+    </g>
+    <g id="Ellipse_638" data-name="Ellipse 638" transform="translate(25.951 21.352)" fill="none" stroke="#35c900" stroke-width="1">
+      <circle cx="1" cy="1" r="1" stroke="none"/>
+      <circle cx="1" cy="1" r="0.5" fill="none"/>
+    </g>
+    <g id="Ellipse_645" data-name="Ellipse 645" transform="translate(25.951 31.352)" fill="none" stroke="#35c900" stroke-width="1">
+      <circle cx="1" cy="1" r="1" stroke="none"/>
+      <circle cx="1" cy="1" r="0.5" fill="none"/>
+    </g>
+    <g id="Ellipse_639" data-name="Ellipse 639" transform="translate(29.951 23.352)" fill="none" stroke="#35c900" stroke-width="1">
+      <circle cx="1" cy="1" r="1" stroke="none"/>
+      <circle cx="1" cy="1" r="0.5" fill="none"/>
+    </g>
+    <g id="Ellipse_643" data-name="Ellipse 643" transform="translate(29.951 29.352)" fill="none" stroke="#35c900" stroke-width="1">
+      <circle cx="1" cy="1" r="1" stroke="none"/>
+      <circle cx="1" cy="1" r="0.5" fill="none"/>
+    </g>
+    <g id="Ellipse_640" data-name="Ellipse 640" transform="translate(21.951 23.352)" fill="none" stroke="#35c900" stroke-width="1">
+      <circle cx="1" cy="1" r="1" stroke="none"/>
+      <circle cx="1" cy="1" r="0.5" fill="none"/>
+    </g>
+    <g id="Ellipse_644" data-name="Ellipse 644" transform="translate(21.951 29.352)" fill="none" stroke="#35c900" stroke-width="1">
+      <circle cx="1" cy="1" r="1" stroke="none"/>
+      <circle cx="1" cy="1" r="0.5" fill="none"/>
+    </g>
+    <g id="Ellipse_641" data-name="Ellipse 641" transform="translate(20.951 26.352)" fill="none" stroke="#35c900" stroke-width="1">
+      <circle cx="1" cy="1" r="1" stroke="none"/>
+      <circle cx="1" cy="1" r="0.5" fill="none"/>
+    </g>
+    <g id="Ellipse_642" data-name="Ellipse 642" transform="translate(30.951 26.352)" fill="none" stroke="#35c900" stroke-width="1">
+      <circle cx="1" cy="1" r="1" stroke="none"/>
+      <circle cx="1" cy="1" r="0.5" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,284 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="296" height="179" viewBox="0 0 296 179">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.973" y1="0.028" x2="0.013" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bebebe"/>
+      <stop offset="0.323" stop-color="#797575"/>
+      <stop offset="0.616" stop-color="#6b6b6b"/>
+      <stop offset="1" stop-color="#7e7e7e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.617" y1="0.625" x2="0.993" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d1d1d"/>
+      <stop offset="1" stop-color="#ffaf47"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.617" y1="0.625" x2="1.372" y2="-0.787" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d1d1d"/>
+      <stop offset="1" stop-color="#935e00"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.658" y1="0.5" x2="1.041" y2="-0.1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d1d1d"/>
+      <stop offset="1" stop-color="#ef62b3"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.658" y1="0.5" x2="1.835" y2="-1.46" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d1d1d"/>
+      <stop offset="1" stop-color="#ffb2de"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.592" y1="0.453" x2="1.669" y2="-1.706" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d1d1d"/>
+      <stop offset="1" stop-color="#ff6363"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0.653" y1="0.538" x2="1" y2="0.047" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d1d1d"/>
+      <stop offset="1" stop-color="#6fc476"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0.653" y1="0.538" x2="1.68" y2="-1.174" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-9" x1="0.61" y1="0.559" x2="1" y2="0.035" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d1d1d"/>
+      <stop offset="1" stop-color="#42d8ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="0.61" y1="0.559" x2="1.814" y2="-1.172" xlink:href="#linear-gradient-9"/>
+    <linearGradient id="linear-gradient-11" x1="0.579" y1="0.324" x2="1.269" y2="-0.145" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d1d1d"/>
+      <stop offset="1" stop-color="#0197fb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-12" x1="0.579" y1="0.324" x2="2.343" y2="-1.046" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d1d1d"/>
+      <stop offset="1" stop-color="#61a6c9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-14" x1="0.618" y1="0.386" x2="1.99" y2="-0.713" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d1d1d"/>
+      <stop offset="1" stop-color="#61a5c9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-15" x1="0.247" y1="0.654" x2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d1d1d"/>
+      <stop offset="1" stop-color="#63a9cd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-16" x1="0.655" y1="0.368" x2="1.984" y2="-0.704" xlink:href="#linear-gradient-15"/>
+    <linearGradient id="linear-gradient-17" x1="1.067" y1="-0.123" x2="0.443" y2="0.46" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#63a9cd"/>
+      <stop offset="1" stop-color="#1d1d1d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-18" x1="0.636" y1="0.346" x2="1.724" y2="-0.693" xlink:href="#linear-gradient-15"/>
+  </defs>
+  <g id="Group_3896" data-name="Group 3896" transform="translate(-1456.447 -376.67)">
+    <rect id="Rectangle_3381" data-name="Rectangle 3381" width="296" height="179" rx="11" transform="translate(1456.447 376.67)" fill="url(#linear-gradient)"/>
+    <path id="Path_3641" data-name="Path 3641" d="M8,0H277a8,8,0,0,1,8,8V159a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V8A8,8,0,0,1,8,0Z" transform="translate(1461.447 382.67)" fill="#0d0d0d"/>
+    <g id="Group_4132" data-name="Group 4132" transform="translate(1436.947 356.502)">
+      <g id="Component_13_22" data-name="Component 13 – 22" transform="translate(30.499 34.167)">
+        <rect id="black" width="37" height="10" rx="5" fill="#242424"/>
+        <text id="Sheraton" transform="translate(11 8)" fill="#fff" font-size="2" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Sheraton</tspan></text>
+        <text id="Sheraton_VDMS" data-name="Sheraton VDMS" transform="translate(11 5)" fill="#fff" font-size="3" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Sheraton VDMS</tspan></text>
+        <circle id="Ellipse_273" data-name="Ellipse 273" cx="4" cy="4" r="4" transform="translate(1 1)" fill="#fff"/>
+        <path id="Path_2210" data-name="Path 2210" d="M4.66,2a2.66,2.66,0,1,0,2.66,2.66A2.663,2.663,0,0,0,4.66,2ZM6.278,6.2a1.8,1.8,0,0,0-3.235,0A2.206,2.206,0,0,1,2.426,4.66a2.235,2.235,0,0,1,4.469,0A2.207,2.207,0,0,1,6.278,6.2ZM4.66,3.064a.958.958,0,1,0,.958.958A.958.958,0,0,0,4.66,3.064Z" transform="translate(0.882 0.731)" fill="#272727"/>
+      </g>
+      <text id="_26oC" data-name="26oC" transform="translate(255.5 161.168)" fill="#fff" font-size="13" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">26</tspan><tspan y="0" font-size="7.583" baseline-shift="4.332900027028696">o</tspan><tspan y="0">C</tspan></text>
+      <text id="Light_Intensity_Drizzle" data-name="Light Intensity Drizzle" transform="translate(252.5 146.168)" fill="#939393" font-size="3" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Light Intensity Drizzle</tspan></text>
+      <g id="Group_2668" data-name="Group 2668" transform="translate(260.914 119.465)">
+        <path id="Path_2886" data-name="Path 2886" d="M31,18.923a4.394,4.394,0,0,0-.5.029,5.453,5.453,0,0,0-10.648,2.253,3.358,3.358,0,0,0,.5,6.679H31a4.48,4.48,0,1,0,0-8.961" transform="translate(-17 -15.003)" fill="#eee" opacity="0.5"/>
+        <rect id="Rectangle_2666" data-name="Rectangle 2666" width="3.85" height="0.98" transform="translate(0.96 17.1) rotate(-53.999)" fill="#64c5f0"/>
+        <rect id="Rectangle_2667" data-name="Rectangle 2667" width="4.48" height="0.98" transform="translate(7.254 17.608) rotate(-53.991)" fill="#64c5f0"/>
+        <rect id="Rectangle_2668" data-name="Rectangle 2668" width="5.881" height="0.98" transform="translate(10.396 18.762) rotate(-54.006)" fill="#64c5f0"/>
+        <rect id="Rectangle_2669" data-name="Rectangle 2669" width="0.98" height="4.621" transform="translate(4.161 19.598) rotate(-143.994)" fill="#64c5f0"/>
+        <rect id="Rectangle_2670" data-name="Rectangle 2670" width="1.681" height="0.98" transform="translate(14.574 18.252) rotate(-53.986)" fill="#64c5f0"/>
+      </g>
+      <g id="Group_2673" data-name="Group 2673" transform="translate(252.688 108.165)">
+        <text id="Mangalore_IN" data-name="Mangalore, IN" transform="translate(4.811 3.003)" fill="#fff" font-size="3" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Mangalore, IN</tspan></text>
+        <g id="Group_2670" data-name="Group 2670" transform="translate(0 0.422)">
+          <path id="Path_2889" data-name="Path 2889" d="M15.7,1.061a1.051,1.051,0,1,0-2.1,0,6.528,6.528,0,0,0,1.051,2.048A6.528,6.528,0,0,0,15.7,1.061Zm-1.736,0a.685.685,0,1,1,.685.685.685.685,0,0,1-.685-.685Z" transform="translate(-13.6 -0.01)" fill="#0197fb"/>
+        </g>
+      </g>
+      <g id="Group_2674" data-name="Group 2674" transform="translate(234.3 86.233)">
+        <rect id="Rectangle_2672" data-name="Rectangle 2672" width="55" height="6" rx="3" transform="translate(0.199 8.934)" fill="#202020"/>
+        <g id="Group_261" data-name="Group 261" transform="translate(0 0)">
+          <rect id="Rectangle_1467" data-name="Rectangle 1467" width="73" height="6" rx="3" transform="translate(0.199 -0.066)" fill="#272727"/>
+          <rect id="Rectangle_1564" data-name="Rectangle 1564" width="27" height="6" rx="3" transform="translate(0.199 -0.066)" fill="#1e65e0"/>
+          <text id="Co-ordinates" transform="translate(55.2 3.935)" fill="#fff" font-size="2" font-family="Roboto-Regular, Roboto"><tspan x="-5.671" y="0">Co-ordinates</tspan></text>
+          <text id="ZIP_Code" data-name="ZIP Code" transform="translate(35.2 3.935)" fill="#fff" font-size="2" font-family="Roboto-Regular, Roboto"><tspan x="-4.064" y="0">ZIP Code</tspan></text>
+          <text id="City" transform="translate(13.2 3.935)" fill="#fff" font-size="2" font-family="Roboto-Regular, Roboto"><tspan x="-1.693" y="0">City</tspan></text>
+        </g>
+        <rect id="Rectangle_2673" data-name="Rectangle 2673" width="16" height="6" rx="3" transform="translate(57.199 8.934)" fill="#1e65e0"/>
+        <text id="Search" transform="translate(65.2 12.935)" fill="#fff" font-size="3" font-family="Roboto-Regular, Roboto"><tspan x="-4.605" y="0">Search</tspan></text>
+        <text id="Select_a_city" data-name="Select a city" transform="translate(13.2 12.935)" fill="#7a7a7a" font-size="3" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="-7.881" y="0">Select a city</tspan></text>
+        <path id="Path_2893" data-name="Path 2893" d="M11.357,11.5,9.928,12.929,8.5,11.5" transform="translate(40.265 0.282)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5"/>
+      </g>
+      <g id="Group_2675" data-name="Group 2675" transform="translate(281.426 107.71)">
+        <circle id="Ellipse_378" data-name="Ellipse 378" cx="2.882" cy="2.882" r="2.882" fill="#2a2a2a"/>
+        <path id="Path_2892" data-name="Path 2892" d="M1.35,0a1.35,1.35,0,0,0,0,2.7A1.334,1.334,0,0,0,2,2.53a.386.386,0,0,0,.035.05l.386.4a.393.393,0,1,0,.555-.555l-.4-.386A.386.386,0,0,0,2.53,2,1.377,1.377,0,0,0,2.7,1.35,1.351,1.351,0,0,0,1.35,0Zm0,.386a.96.96,0,0,1,.964.964.977.977,0,0,1-.2.6L2.1,1.963l-.023.012a.386.386,0,0,0-.1.108.973.973,0,0,1-.629.228.964.964,0,0,1,0-1.929Z" transform="translate(1.483 1.327)" fill="#fff"/>
+      </g>
+      <text id="_09:30" data-name="09:30" transform="translate(249.5 69.168)" fill="#fff" font-size="14" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">09:30</tspan></text>
+      <text id="Mon_19_July" data-name="Mon, 19 July" transform="translate(255.5 78.168)" fill="#969696" font-size="4" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Mon, 19 July</tspan></text>
+      <text id="AM" transform="translate(289.5 71.168)" fill="#969696" font-size="6" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">AM</tspan></text>
+      <g id="Group_2480" data-name="Group 2480" transform="translate(167.359 89.721)">
+        <rect id="black-2" data-name="black" width="58" height="26" rx="2" transform="translate(0.141 0.447)" fill="url(#linear-gradient-2)"/>
+        <rect id="black-3" data-name="black" width="57" height="24" rx="2" transform="translate(0.141 1.447)" fill="url(#linear-gradient-3)"/>
+        <text id="Tickets_Pending" data-name="Tickets Pending" transform="translate(4.25 5.672)" fill="#ffaf47" font-size="3" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Tickets Pending</tspan></text>
+        <text id="_2" data-name="2" transform="translate(42.876 16.387)" fill="#ffaf47" font-size="8" font-family="Ubuntu-Regular, Ubuntu"><tspan x="-2.256" y="0">2</tspan></text>
+        <path id="Path_1747" data-name="Path 1747" d="M3.154,7.372l2.107,2.2L9.128,5.536,7.02,3.339,3.154,7.372Zm8.424-3.019-.9-.936A1.164,1.164,0,0,1,9.256,3.2a1.293,1.293,0,0,1-.205-1.486l-.9-.936a.586.586,0,0,0-.85,0L.773,7.6a.649.649,0,0,0,0,.886l.9.935A1.164,1.164,0,0,1,3.1,9.63a1.294,1.294,0,0,1,.2,1.488l.9.935a.585.585,0,0,0,.85,0l6.531-6.813a.648.648,0,0,0,0-.886ZM5.261,10.576,2.19,7.372,7.02,2.333l3.071,3.2-4.831,5.04Z" transform="translate(2.998 11.353)" fill="#ffaf47"/>
+      </g>
+      <g id="Group_2481" data-name="Group 2481" transform="translate(103.391 89.721)">
+        <rect id="black-4" data-name="black" width="59" height="26" rx="2" transform="translate(0.109 0.447)" fill="url(#linear-gradient-4)"/>
+        <rect id="black-5" data-name="black" width="58" height="24" rx="2" transform="translate(0.109 1.447)" fill="url(#linear-gradient-5)"/>
+        <text id="Pending_Remote_Sessions" data-name="Pending Remote
+Sessions" transform="translate(3.492 5.478)" fill="#ef62b3" font-size="3" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Pending Remote</tspan><tspan x="0" y="4">Sessions</tspan></text>
+        <text id="_1" data-name="1" transform="translate(50.055 17.478)" fill="#ef62b3" font-size="8" font-family="Ubuntu-Regular, Ubuntu"><tspan x="-2.256" y="0">1</tspan></text>
+        <g id="Group_236" data-name="Group 236" transform="translate(3.492 13.097)">
+          <path id="Path_417" data-name="Path 417" d="M6.956,3A4.051,4.051,0,0,0,3,7.127a4.051,4.051,0,0,0,3.958,4.129,4.051,4.051,0,0,0,3.958-4.129A4.051,4.051,0,0,0,6.956,3Zm0,7.623A3.428,3.428,0,0,1,3.607,7.127,3.428,3.428,0,0,1,6.956,3.633,3.428,3.428,0,0,1,10.3,7.127,3.428,3.428,0,0,1,6.956,10.621Z" transform="translate(-2.998 -2.998)" fill="#ef62b3"/>
+          <path id="Path_418" data-name="Path 418" d="M11.138,7h0a.311.311,0,0,0-.3.317l0,2.223H9.306a.318.318,0,0,0,0,.635h1.826a.311.311,0,0,0,.3-.317l.005-2.54A.311.311,0,0,0,11.138,7Z" transform="translate(-7.174 -5.731)" fill="#ef62b3"/>
+        </g>
+      </g>
+      <g id="Group_2482" data-name="Group 2482" transform="translate(36.45 89.721)">
+        <rect id="black-6" data-name="black" width="61" height="26" rx="2" transform="translate(0.048 0.447)" fill="#ff6363"/>
+        <rect id="black-7" data-name="black" width="59" height="24" rx="2" transform="translate(1.048 1.447)" fill="url(#linear-gradient-6)"/>
+        <text id="Offline_Devices" data-name="Offline Devices" transform="translate(14.049 6.446)" fill="#ff6363" font-size="3" font-family="Ubuntu-Regular, Ubuntu"><tspan x="-10.418" y="0">Offline Devices</tspan></text>
+        <text id="_3" data-name="3" transform="translate(52.049 21.447)" fill="#ff6363" font-size="12" font-family="Ubuntu-Regular, Ubuntu"><tspan x="-3.384" y="0">3</tspan></text>
+        <g id="Group_234" data-name="Group 234" transform="translate(14.611 22.001) rotate(180)">
+          <rect id="Rectangle_1552" data-name="Rectangle 1552" width="10.301" height="10.475" transform="translate(0)" fill="none"/>
+          <g id="Group_233" data-name="Group 233" transform="translate(0.52 0.526)">
+            <path id="Path_415" data-name="Path 415" d="M3.287,5.846a.427.427,0,0,1-.6-.6L4.39,3.537a.427.427,0,0,1,.6,0L6.7,5.243a.427.427,0,0,1-.6.6l-1.4-1.4Zm1.4,3.537A4.692,4.692,0,1,1,9.383,4.692,4.692,4.692,0,0,1,4.692,9.383Zm0-.853A3.839,3.839,0,1,0,.853,4.692,3.839,3.839,0,0,0,4.692,8.53Z" transform="translate(0)" fill="#ff6363"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_2483" data-name="Group 2483" transform="translate(36.45 56.481)">
+        <rect id="black-8" data-name="black" width="61" height="27" rx="2" transform="translate(0.05 -0.314)" fill="url(#linear-gradient-7)"/>
+        <rect id="black-9" data-name="black" width="60" height="25" rx="2" transform="translate(0.048 0.686)" fill="url(#linear-gradient-8)"/>
+        <text id="Online_Devices" data-name="Online Devices" transform="translate(15.048 5.686)" fill="#6fc476" font-size="3" font-family="Ubuntu-Regular, Ubuntu"><tspan x="-10.108" y="0">Online Devices</tspan></text>
+        <text id="_154" data-name="154" transform="translate(46.049 21.686)" fill="#6fc476" font-size="12" font-family="Ubuntu-Regular, Ubuntu"><tspan x="-10.152" y="0">154</tspan></text>
+        <g id="Group_234-2" data-name="Group 234" transform="translate(4.62 12.046)">
+          <rect id="Rectangle_1552-2" data-name="Rectangle 1552" width="10.301" height="10.475" fill="none"/>
+          <g id="Group_233-2" data-name="Group 233" transform="translate(0.52 0.526)">
+            <path id="Path_415-2" data-name="Path 415" d="M3.287,5.846a.427.427,0,0,1-.6-.6L4.39,3.537a.427.427,0,0,1,.6,0L6.7,5.243a.427.427,0,0,1-.6.6l-1.4-1.4Zm1.4,3.537A4.692,4.692,0,1,1,9.383,4.692,4.692,4.692,0,0,1,4.692,9.383Zm0-.853A3.839,3.839,0,1,0,.853,4.692,3.839,3.839,0,0,0,4.692,8.53Z" transform="translate(0)" fill="#6fc476"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_2484" data-name="Group 2484" transform="translate(101.904 56.481)">
+        <rect id="black-10" data-name="black" width="60" height="27" rx="2" transform="translate(-0.405 -0.314)" fill="url(#linear-gradient-9)"/>
+        <rect id="black-11" data-name="black" width="59" height="25" rx="2" transform="translate(-0.405 0.686)" fill="url(#linear-gradient-10)"/>
+        <text id="Active_Remote_Sessions" data-name="Active Remote
+Sessions" transform="translate(3.794 5.436)" fill="#42d8ff" font-size="3" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Active Remote</tspan><tspan x="0" y="4">Sessions</tspan></text>
+        <text id="_1-2" data-name="1" transform="translate(51.253 18.165)" fill="#42d8ff" font-size="8" font-family="Ubuntu-Regular, Ubuntu"><tspan x="-2.256" y="0">1</tspan></text>
+        <path id="Path_416" data-name="Path 416" d="M10.231,4.446A4.423,4.423,0,0,0,6.035,0h-.3a4.425,4.425,0,0,0-4.2,4.413.9.9,0,0,0-.65.859V6.317A.9.9,0,0,0,2.467,6.9a5.839,5.839,0,0,0,.755,1.725,3.232,3.232,0,0,0,2.566,1.651l.055,0A3.238,3.238,0,0,0,8.458,8.683c.058-.085.114-.175.169-.265l.313,0a1.31,1.31,0,0,0,1.289-1.055h.008l.011-.109a.391.391,0,0,0,0-.043.9.9,0,0,0,.631-.853V5.309A.9.9,0,0,0,10.231,4.446Zm-7.917.1a.916.916,0,0,0-.228-.122A3.878,3.878,0,0,1,5.736.548h.3A3.875,3.875,0,0,1,9.683,4.461a.886.886,0,0,0-.215.112A3.55,3.55,0,0,0,5.984,1.2H5.911A3.484,3.484,0,0,0,3.382,2.256,4.1,4.1,0,0,0,2.314,4.549ZM8.3,7.875l-1.291.018a.59.59,0,0,0-.52-.316H6A.592.592,0,1,0,6,8.76h.495a.59.59,0,0,0,.522-.321l.946-.013a2.748,2.748,0,0,1-2.118,1.3H5.8A2.711,2.711,0,0,1,3.676,8.323,5.585,5.585,0,0,1,2.8,5.331V5.273l0-.058a3.743,3.743,0,0,1,.97-2.581A2.929,2.929,0,0,1,5.9,1.749h0c.021,0,.042,0,.066,0,1.762.039,2.993,1.474,2.993,3.489,0,.037,0,.072,0,.111A5.626,5.626,0,0,1,8.3,7.875Zm1.4-.658a.772.772,0,0,1-.761.65H8.919A6.319,6.319,0,0,0,9.275,6.9a.9.9,0,0,0,.426.3A.031.031,0,0,0,9.7,7.216Z" transform="translate(2.914 13.184)" fill="#42d8ff"/>
+      </g>
+      <g id="Group_2485" data-name="Group 2485" transform="translate(167.359 56.481)">
+        <rect id="black-12" data-name="black" width="27" height="27" rx="2" transform="translate(0.141 -0.314)" fill="url(#linear-gradient-11)"/>
+        <rect id="black-13" data-name="black" width="26" height="25" rx="2" transform="translate(0.141 0.686)" fill="url(#linear-gradient-12)"/>
+        <path id="Path_475" data-name="Path 475" d="M15.991,15.375A7,7,0,0,0,9,22.381h.466a6.525,6.525,0,1,1,13.051,0h.466A7,7,0,0,0,15.991,15.375Zm-.233.932v.932h.466v-.932Zm-1.107.146-.452.117.233.9.452-.131Zm2.68,0-.233.889.452.131.233-.9Zm1.486.553-.466.816.408.233.466-.816Zm-5.651.015-.408.233.466.816.408-.233Zm6.948.9-.655.655.32.32.655-.655Zm-8.244.029-.32.32.655.655.32-.32Zm5.622.568a.236.236,0,0,0-.131.087L15.321,21.2a.24.24,0,0,0-.044.117.917.917,0,0,0-.524.408l.408.233a.464.464,0,0,1,.641-.16.448.448,0,0,1,.16.626l.408.233a.907.907,0,0,0,.1-.641.234.234,0,0,0,.058-.117l1.238-3.059A.246.246,0,0,0,17.491,18.521Zm3.627.6-.8.466.233.408.8-.466Zm-10.254.044-.233.408.8.466.233-.408ZM21.788,20.5l-.9.233.117.452.9-.233Zm-11.594.1-.117.452.9.248.117-.452Zm-.262,1.3v.466h.932V21.9Zm11.186,0v.466h.932V21.9Z" transform="translate(-2.899 -8.511)" fill="#fff"/>
+        <text id="Speed_Test" data-name="Speed Test" transform="translate(6.142 22.687)" fill="#fff" font-size="3" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Speed Test</tspan></text>
+      </g>
+      <g id="Group_2486" data-name="Group 2486" transform="translate(198.597 56.481)">
+        <rect id="black-14" data-name="black" width="27" height="27" rx="2" transform="translate(-0.098 -0.314)" fill="url(#linear-gradient-11)"/>
+        <rect id="black-15" data-name="black" width="25" height="26" rx="2" transform="translate(0.902 0.686)" fill="url(#linear-gradient-14)"/>
+        <text id="Quick_Check" data-name="Quick Check" transform="translate(4.902 22.687)" fill="#fff" font-size="3" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Quick Check</tspan></text>
+        <path id="Path_1780" data-name="Path 1780" d="M13.071,16.2a3.772,3.772,0,0,0,2.433-.882l.351.351-.117.117a.326.326,0,0,0,0,.461l2.693,2.693a.325.325,0,0,0,.461,0l.72-.72a.326.326,0,0,0,0-.461L16.92,15.062a.326.326,0,0,0-.461,0l-.142.142-.35-.35a3.8,3.8,0,1,0-2.9,1.342Zm5.85,1.79-.259.259L16.43,16.013l.259-.259ZM10.845,10.17A3.148,3.148,0,1,1,9.923,12.4a3.127,3.127,0,0,1,.922-2.226Z" transform="translate(-0.382 -2.552)" fill="#fff"/>
+      </g>
+      <g id="Group_2487" data-name="Group 2487" transform="translate(36.45 122.473)">
+        <rect id="Rectangle_2547" data-name="Rectangle 2547" width="59" height="58" rx="2" transform="translate(0.048 -0.305)" fill="url(#linear-gradient-15)"/>
+        <rect id="Rectangle_2385" data-name="Rectangle 2385" width="57" height="56" rx="2" transform="translate(1.048 0.695)" fill="url(#linear-gradient-16)"/>
+        <text id="Sensors" transform="translate(4.049 4.695)" fill="#fff" font-size="3" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Sensors</tspan></text>
+        <g id="Group_2317" data-name="Group 2317" transform="translate(8.222 7.158)">
+          <g id="Ellipse_284" data-name="Ellipse 284" fill="none" stroke="#fb4b3f" stroke-width="44">
+            <circle cx="22.174" cy="22.174" r="22.174" stroke="none"/>
+            <circle cx="22.174" cy="22.174" r="0.174" fill="none"/>
+          </g>
+          <path id="Subtraction_6" data-name="Subtraction 6" d="M22.174,44.348a22.36,22.36,0,0,1-4.468-.45,22.054,22.054,0,0,1-7.929-3.337,22.231,22.231,0,0,1-8.034-9.756A22.032,22.032,0,0,1,.451,26.643,22.341,22.341,0,0,1,0,22.174c0-.029,0-.058,0-.087H22.175V0a22.358,22.358,0,0,1,4.469.451,22.041,22.041,0,0,1,7.929,3.337,22.232,22.232,0,0,1,8.033,9.756A22.059,22.059,0,0,1,43.9,17.705a22.39,22.39,0,0,1,0,8.938,22.161,22.161,0,0,1-6.044,11.21,22.1,22.1,0,0,1-15.679,6.495Z" transform="translate(0.001 0)" fill="#6fc476"/>
+          <ellipse id="Ellipse_286" data-name="Ellipse 286" cx="18.5" cy="18" rx="18.5" ry="18" transform="translate(3.827 4.537)" fill="#1d1d1d"/>
+          <text id="Total" transform="translate(19.4 12.148)" fill="#fff" font-size="1" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Total</tspan></text>
+          <text id="Alerts" transform="translate(18.88 24.902)" fill="#fff" font-size="1" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Alerts</tspan></text>
+          <text id="_100" data-name="100" transform="translate(17.319 16.593)" fill="#fff" font-size="2" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">100</tspan></text>
+          <text id="_2-2" data-name="2" transform="translate(20.441 29.346)" fill="#fff" font-size="2" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">2</tspan></text>
+        </g>
+      </g>
+      <g id="Component_7_30" data-name="Component 7 – 30" transform="translate(103.499 122.168)">
+        <g id="Group_2426" data-name="Group 2426" transform="translate(0 -0.001)">
+          <rect id="black-16" data-name="black" width="123" height="58" rx="2" transform="translate(0 0.001)" fill="url(#linear-gradient-17)"/>
+          <rect id="black-17" data-name="black" width="122" height="56" rx="2" transform="translate(0 1.001)" fill="url(#linear-gradient-18)"/>
+        </g>
+        <g id="Group_2444" data-name="Group 2444" transform="translate(1.489 7.438)">
+          <rect id="black-18" data-name="black" width="116" height="8" rx="2" transform="translate(1.511 -0.438)" fill="#101010"/>
+          <text id="Service_required_at_Restroom_1" data-name="Service required at Restroom 1" transform="translate(9.512 4.562)" fill="#fff" font-size="2" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Service </tspan><tspan y="0" fill="#838383">required at</tspan><tspan y="0" xml:space="preserve"> Restroom 1</tspan></text>
+          <text id="_1_minute_s_" data-name="1 minute(s)" transform="translate(104.512 2.562)" fill="#838383" font-size="2" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">1 minute(s)</tspan></text>
+          <path id="Path_2219" data-name="Path 2219" d="M1.272.264A1.008,1.008,0,1,0,2.279,1.271,1.009,1.009,0,0,0,1.272.264Zm0,.183a.824.824,0,1,1-.825.824A.823.823,0,0,1,1.272.447Zm0,.182A.092.092,0,0,0,1.18.722v.549a.092.092,0,0,0,.027.065l.366.366a.092.092,0,1,0,.129-.13l-.339-.339V.722A.092.092,0,0,0,1.27.629Z" transform="translate(101.434 0.481)" fill="#838383" fill-rule="evenodd"/>
+          <g id="Group_2493" data-name="Group 2493" transform="translate(4.049 0.5)">
+            <g id="Solid" transform="translate(0.95 0.387) rotate(13)">
+              <path id="Path_2253" data-name="Path 2253" d="M.306,3.7H2.631a.309.309,0,0,0,.308-.308V3.362a.309.309,0,0,0-.194-.286,4.364,4.364,0,0,1-.057-.719v-.8a1.119,1.119,0,0,0-.016-.187H1.5a.153.153,0,0,1-.165-.138A.153.153,0,0,1,1.5,1.092h1.09A1.124,1.124,0,0,0,1.8.46.348.348,0,0,0,1.822.354a.354.354,0,1,0-.707,0,.354.354,0,0,0,.018.1,1.127,1.127,0,0,0-.883,1.1v.8c0,.05,0,.134-.006.227h1.2a.14.14,0,1,1,0,.277H.225c-.007.08-.019.153-.031.217A.309.309,0,0,0,0,3.364V3.4A.306.306,0,0,0,.306,3.7ZM2.331,1.858a.19.19,0,1,1,0,.38.19.19,0,1,1,0-.38ZM.579,2.236a.19.19,0,1,1,0-.38.19.19,0,1,1,0,.38Zm.877,0a.19.19,0,0,1,0-.38.19.19,0,1,1,0,.38Zm.438,1.669H1.045a.429.429,0,0,0,.849,0Z" transform="translate(0 0)" fill="#63a9cd"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_2501" data-name="Group 2501" transform="translate(3.489 17.214)">
+          <rect id="black-19" data-name="black" width="116" height="8" rx="2" transform="translate(-0.489 -0.214)" fill="#101010"/>
+          <text id="Restroom_1" data-name="Restroom 1" transform="translate(2.512 4.785)" fill="#fff" font-size="2" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Restroom 1</tspan></text>
+          <text id="_1-3" data-name="1" transform="translate(65.512 4.785)" fill="#00ff5d" font-size="3" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1</tspan></text>
+          <text id="_3-2" data-name="3" transform="translate(87.512 4.785)" fill="#ffdc00" font-size="3" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">3</tspan></text>
+          <text id="_1-4" data-name="1" transform="translate(104.512 4.785)" fill="#ff2626" font-size="3" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1</tspan></text>
+          <g id="Group_2427" data-name="Group 2427" transform="translate(69.441 1.402)">
+            <path id="Path_2243" data-name="Path 2243" d="M10.1,12.19a2.1,2.1,0,1,1,2.1-2.1A2.1,2.1,0,0,1,10.1,12.19Zm0-3.928A1.833,1.833,0,1,0,11.928,10.1,1.833,1.833,0,0,0,10.1,8.262Z" transform="translate(-8 -8)" fill="#00ff5d"/>
+            <path id="Path_2244" data-name="Path 2244" d="M20.338,27.028a.2.2,0,0,0-.277.077.962.962,0,0,1-1.683,0,.2.2,0,0,0-.355.2,1.351,1.351,0,0,0,1.2.7h0a1.351,1.351,0,0,0,1.2-.7A.2.2,0,0,0,20.338,27.028Z" transform="translate(-17.124 -24.746)" fill="#00ff5d"/>
+            <ellipse id="Ellipse_295" data-name="Ellipse 295" cx="0.175" cy="0.175" rx="0.175" ry="0.175" transform="translate(2.544 1.422)" fill="#00ff5d"/>
+            <ellipse id="Ellipse_296" data-name="Ellipse 296" cx="0.175" cy="0.175" rx="0.175" ry="0.175" transform="translate(1.297 1.422)" fill="#00ff5d"/>
+          </g>
+          <g id="Group_2429" data-name="Group 2429" transform="translate(107.705 1.402)">
+            <path id="Path_2243-2" data-name="Path 2243" d="M10.1,12.19a2.1,2.1,0,1,1,2.1-2.1A2.1,2.1,0,0,1,10.1,12.19Zm0-3.928A1.833,1.833,0,1,0,11.928,10.1,1.833,1.833,0,0,0,10.1,8.262Z" transform="translate(-8 -8)" fill="#ff2626"/>
+            <path id="Path_2244-2" data-name="Path 2244" d="M2.007.022a.175.175,0,0,0-.237.066.824.824,0,0,1-.721.425A.824.824,0,0,1,.327.089a.175.175,0,1,0-.3.175,1.158,1.158,0,0,0,1.025.6h0A1.158,1.158,0,0,0,2.073.26.175.175,0,0,0,2.007.022Z" transform="translate(3.142 3.199) rotate(180)" fill="#ff2626"/>
+            <circle id="Ellipse_295-2" data-name="Ellipse 295" cx="0.175" cy="0.175" r="0.175" transform="translate(2.369 1.247)" fill="#ff2626"/>
+            <circle id="Ellipse_296-2" data-name="Ellipse 296" cx="0.175" cy="0.175" r="0.175" transform="translate(1.122 1.247)" fill="#ff2626"/>
+          </g>
+          <g id="Group_2428" data-name="Group 2428" transform="translate(91.281 1.402)">
+            <path id="Path_2243-3" data-name="Path 2243" d="M10.1,12.19a2.1,2.1,0,1,1,2.1-2.1A2.1,2.1,0,0,1,10.1,12.19Zm0-3.928A1.833,1.833,0,1,0,11.928,10.1,1.833,1.833,0,0,0,10.1,8.262Z" transform="translate(-8 -8)" fill="#ffdc00"/>
+            <circle id="Ellipse_295-3" data-name="Ellipse 295" cx="0.175" cy="0.175" r="0.175" transform="translate(2.544 1.422)" fill="#ffdc00"/>
+            <circle id="Ellipse_296-3" data-name="Ellipse 296" cx="0.175" cy="0.175" r="0.175" transform="translate(1.297 1.422)" fill="#ffdc00"/>
+            <line id="Line_42" data-name="Line 42" x2="1.92" transform="translate(1.137 2.684)" fill="none" stroke="#ffdc00" stroke-linecap="round" stroke-width="0.5"/>
+          </g>
+        </g>
+        <text id="Services" transform="translate(3.001 6)" fill="#63a9cd" font-size="3" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Services</tspan></text>
+      </g>
+      <g id="Group_2672" data-name="Group 2672" transform="translate(236.3 168.051)">
+        <text id="_0m_s_" data-name="0m/s " transform="translate(7.199 4.117)" fill="#fff" font-size="3" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">0m/s </tspan></text>
+        <text id="Winds" transform="translate(18.199 4.117)" fill="#939393" font-size="3" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Winds</tspan></text>
+        <g id="Group_2669" data-name="Group 2669" transform="translate(0 0)">
+          <rect id="Rectangle_2671" data-name="Rectangle 2671" width="6" height="6" transform="translate(0.199 0.117)" fill="none"/>
+          <path id="Path_2887" data-name="Path 2887" d="M26.748,51.751a.625.625,0,1,0,.587-.842H24.417m1.5-2.509a.625.625,0,1,1,.587.842H24m4.207-.009a.625.625,0,1,1,.587.842H24.208" transform="translate(-23.491 -47)" fill="none" stroke="#0197fb" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g id="Group_2671" data-name="Group 2671" transform="translate(271.401 168.912)">
+        <text id="_89_" data-name="89%" transform="translate(4.098 3.255)" fill="#fff" font-size="3" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">89%</tspan></text>
+        <text id="Humidity" transform="translate(15.098 3.255)" fill="#939393" font-size="3" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Humidity</tspan></text>
+        <path id="Path_2888" data-name="Path 2888" d="M9.034,10.111a.8.8,0,0,1-.8-.8A5.748,5.748,0,0,1,8.9,7.734a.163.163,0,0,1,.27,0,5.748,5.748,0,0,1,.662,1.58A.8.8,0,0,1,9.034,10.111Zm0-1.978a4.5,4.5,0,0,0-.491,1.181.491.491,0,0,0,.981,0A4.5,4.5,0,0,0,9.034,8.133Zm-.92-.169A.613.613,0,0,1,7.5,7.351,4.133,4.133,0,0,1,7.978,6.2a.163.163,0,0,1,.27,0,4.133,4.133,0,0,1,.478,1.15A.613.613,0,0,1,8.113,7.964Zm0-1.362a2.831,2.831,0,0,0-.307.748.307.307,0,1,0,.613,0A2.831,2.831,0,0,0,8.113,6.6Zm1.534.748a.613.613,0,0,1-.613-.613,4.133,4.133,0,0,1,.478-1.15.163.163,0,0,1,.27,0,4.133,4.133,0,0,1,.478,1.15A.613.613,0,0,1,9.647,7.351Zm0-1.362a2.831,2.831,0,0,0-.307.748.307.307,0,1,0,.613,0A2.831,2.831,0,0,0,9.647,5.989Z" transform="translate(-7.5 -5.515)" fill="#0197fb"/>
+      </g>
+      <g id="unmute" transform="translate(69.177 37.142)">
+        <circle id="Ellipse_376" data-name="Ellipse 376" cx="3" cy="3" r="3" transform="translate(0.322 -0.975)" fill="#242424"/>
+        <path id="Path_2883" data-name="Path 2883" d="M7.68,6.234a.3.3,0,0,0-.318.013l-1,.658H5.744a.281.281,0,0,0-.285.276V8.416a.281.281,0,0,0,.285.276h.619l1,.659a.31.31,0,0,0,.48-.262V6.51A.309.309,0,0,0,7.68,6.234ZM7.6,9.088a.062.062,0,0,1-.034.058.061.061,0,0,1-.067,0l-1.03-.679a.122.122,0,0,0-.067-.02H5.744c-.023,0-.04-.015-.04-.029V7.182c0-.014.017-.029.04-.029H6.4a.122.122,0,0,0,.067-.02L7.5,6.454a.064.064,0,0,1,.036-.012.066.066,0,0,1,.032.009A.062.062,0,0,1,7.6,6.51V9.088Z" transform="translate(-3.837 -5.7)" fill="#707070"/>
+        <g id="Layer_2" data-name="Layer 2" transform="translate(4.161 -0.265)">
+          <g id="volume-up" transform="translate(0.001 0)">
+            <rect id="Rectangle_2665" data-name="Rectangle 2665" height="3.967" transform="translate(0.2)" fill="#707070" opacity="0"/>
+            <path id="Path_2884" data-name="Path 2884" d="M16.733,8.047a.132.132,0,0,0-.187-.02.135.135,0,0,0-.02.188.538.538,0,0,1,0,.633.135.135,0,0,0-.017.142.133.133,0,0,0,.223.026A.807.807,0,0,0,16.733,8.047Z" transform="translate(-16.497 -6.081)" fill="#707070"/>
+            <path id="Path_2885" data-name="Path 2885" d="M18.216,5.03a.132.132,0,0,0-.187.017.135.135,0,0,0,.017.188.873.873,0,0,1,0,1.4.134.134,0,0,0-.017.188.132.132,0,0,0,.187.017,1.141,1.141,0,0,0,0-1.809Z" transform="translate(-17.799 -3.483)" fill="#707070"/>
+          </g>
+        </g>
+      </g>
+      <text id="My_Dashboard" data-name="My Dashboard" transform="translate(36.5 52.168)" fill="#fff" font-size="5" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">My Dashboard</tspan></text>
+      <g id="Component_8_26" data-name="Component 8 – 26" transform="translate(217.499 34.167)">
+        <rect id="Rectangle_2492" data-name="Rectangle 2492" width="88" height="10" rx="5" fill="#272727"/>
+        <g id="Layer_2-2" data-name="Layer 2" transform="translate(16.312 2.427)">
+          <g id="monitor">
+            <rect id="Rectangle_1539" data-name="Rectangle 1539" width="5.764" height="5.764" fill="#f3f3f3" opacity="0"/>
+            <path id="Path_405" data-name="Path 405" d="M6.173,3H2.736A.736.736,0,0,0,2,3.736V5.7a.736.736,0,0,0,.736.736H4.209v.491H3.227a.245.245,0,1,0,0,.491H5.682a.245.245,0,1,0,0-.491H4.7V6.437H6.173A.736.736,0,0,0,6.91,5.7V3.736A.736.736,0,0,0,6.173,3Zm.245,2.7a.245.245,0,0,1-.245.245H2.736A.245.245,0,0,1,2.491,5.7V3.736a.245.245,0,0,1,.245-.245H6.173a.245.245,0,0,1,.245.245Z" transform="translate(-1.604 -2.328)" fill="#f3f3f3"/>
+          </g>
+        </g>
+        <g id="Group_2261" data-name="Group 2261" transform="translate(4.134 2.108)">
+          <path id="Path_500" data-name="Path 500" d="M0,0H6.61V6.387H0Z" fill="none"/>
+          <path id="Path_501" data-name="Path 501" d="M3.265,5.559H4.854A.261.261,0,0,0,5.119,5.3V3.256A.261.261,0,0,0,4.854,3H3.265A.261.261,0,0,0,3,3.256V5.3A.261.261,0,0,0,3.265,5.559Zm0,2.047H4.854a.261.261,0,0,0,.265-.256V6.327a.261.261,0,0,0-.265-.256H3.265A.261.261,0,0,0,3,6.327V7.351A.261.261,0,0,0,3.265,7.606Zm2.648,0H7.5a.261.261,0,0,0,.265-.256V5.3A.261.261,0,0,0,7.5,5.047H5.913a.261.261,0,0,0-.265.256V7.351A.261.261,0,0,0,5.913,7.606ZM5.648,3.256V4.28a.261.261,0,0,0,.265.256H7.5a.261.261,0,0,0,.265-.256V3.256A.261.261,0,0,0,7.5,3H5.913A.261.261,0,0,0,5.648,3.256Z" transform="translate(-2.079 -2.11)" fill="#0197fb"/>
+        </g>
+        <path id="FontAwsome_address-book_" data-name="FontAwsome (address-book)" d="M4.57,1.677A.126.126,0,0,0,4.7,1.551V1.132a.126.126,0,0,0-.126-.126h-.21V.5a.5.5,0,0,0-.5-.5H.5A.5.5,0,0,0,0,.5V4.864a.5.5,0,0,0,.5.5H3.857a.5.5,0,0,0,.5-.5v-.5h.21A.126.126,0,0,0,4.7,4.235V3.815A.126.126,0,0,0,4.57,3.69h-.21V3.019h.21A.126.126,0,0,0,4.7,2.893V2.474a.126.126,0,0,0-.126-.126h-.21V1.677ZM3.857,4.864H.5V.5H3.857ZM2.18,2.683a.671.671,0,1,0-.671-.671A.671.671,0,0,0,2.18,2.683ZM1.241,4.025H3.119a.22.22,0,0,0,.235-.2v-.2a.66.66,0,0,0-.7-.6,2.531,2.531,0,0,1-.47.084,2.494,2.494,0,0,1-.47-.084.66.66,0,0,0-.7.6v.2A.22.22,0,0,0,1.241,4.025Z" transform="translate(28.668 2.579)" fill="#f3f3f3"/>
+        <path id="FontAwsome_headset_" data-name="FontAwsome (headset)" d="M1.9,2.056a.316.316,0,0,0-.316-.316H1.424a.633.633,0,0,0-.633.633v.475a.633.633,0,0,0,.633.633h.158A.316.316,0,0,0,1.9,3.164ZM3.638,3.48a.633.633,0,0,0,.633-.633V2.373a.633.633,0,0,0-.633-.633H3.48a.316.316,0,0,0-.316.316V3.164a.316.316,0,0,0,.316.316ZM2.531,0A2.579,2.579,0,0,0,0,2.531v.158a.158.158,0,0,0,.158.158c.122,0,.183-.022.192-.158V2.531A2.143,2.143,0,0,1,2.531.351a2.143,2.143,0,0,1,2.18,2.18h0c0,.024,0,1.638,0,1.638a.512.512,0,0,1-.542.542H3.164c0-.262-.212-.6-.475-.6H2.373a.475.475,0,1,0,0,.949h1.8a.893.893,0,0,0,.893-.893V2.531A2.579,2.579,0,0,0,2.531,0Z" transform="translate(54.301 2.731)" fill="#f3f3f3"/>
+        <path id="Subtraction_5" data-name="Subtraction 5" d="M1.691,4.449h0a2.276,2.276,0,0,1-.661-.275.576.576,0,0,0-.118-.636.572.572,0,0,0-.4-.167.579.579,0,0,0-.232.049A2.269,2.269,0,0,1,0,2.759a.57.57,0,0,0,.366-.534A.575.575,0,0,0,0,1.691a2.322,2.322,0,0,1,.273-.663.559.559,0,0,0,.233.05A.567.567,0,0,0,.91.912.574.574,0,0,0,1.028.275,2.271,2.271,0,0,1,1.69,0a.575.575,0,0,0,.534.367A.576.576,0,0,0,2.758,0a2.266,2.266,0,0,1,.66.275.571.571,0,0,0,.522.8.576.576,0,0,0,.233-.05,2.277,2.277,0,0,1,.275.662.573.573,0,0,0,0,1.069,2.278,2.278,0,0,1-.275.661.576.576,0,0,0-.232-.049.571.571,0,0,0-.522.8,2.263,2.263,0,0,1-.661.275.575.575,0,0,0-.533-.366.566.566,0,0,0-.533.366ZM2.207.719A1.489,1.489,0,1,0,3.7,2.208,1.49,1.49,0,0,0,2.207.719Z" transform="translate(66.725 3.034)" fill="#d1d1d1"/>
+        <path id="FontAwsome_bell_" data-name="FontAwsome (bell)" d="M4.008,3.3A1.7,1.7,0,0,1,3.5,1.9,1.44,1.44,0,0,0,2.335.482V.292a.292.292,0,0,0-.584,0v.19A1.44,1.44,0,0,0,.584,1.9,1.7,1.7,0,0,1,.078,3.3.285.285,0,0,0,0,3.5a.292.292,0,0,0,.293.292h3.5A.292.292,0,0,0,4.087,3.5.284.284,0,0,0,4.008,3.3ZM.615,3.354A2.281,2.281,0,0,0,1.022,1.9s0,0,0-.005a1.022,1.022,0,0,1,2.044,0s0,0,0,.005A2.28,2.28,0,0,0,3.47,3.354ZM2.043,4.666a.583.583,0,0,0,.584-.583H1.459A.583.583,0,0,0,2.043,4.666Z" transform="translate(78.076 3.034)" fill="#f3f3f3"/>
+        <g id="Group_2262" data-name="Group 2262" transform="translate(75.868 2.975)">
+          <rect id="Rectangle_2493" data-name="Rectangle 2493" width="3" height="1" rx="0.5" transform="translate(0.132 0.025)" fill="#d03f3f"/>
+          <text id="_15" data-name="15" transform="translate(1.133 1.025)" fill="#fff" font-size="1" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">15</tspan></text>
+        </g>
+        <g id="Group_2263" data-name="Group 2263" transform="translate(40.954 2.731)">
+          <path id="Path_3683" data-name="Path 3683" d="M0,0H5.764V5.764H0Z" fill="none"/>
+          <path id="Path_3587" data-name="Path 3587" d="M-2041.388,2.306A2.308,2.308,0,0,0-2043.694,0a2.31,2.31,0,0,0-1.866.953V.22a.219.219,0,0,0-.219-.22.219.219,0,0,0-.219.219V1.4a.36.36,0,0,0,.36.36h1.177a.219.219,0,0,0,.219-.22.219.219,0,0,0-.219-.22h-.814a1.871,1.871,0,0,1,1.583-.878,1.869,1.869,0,0,1,1.866,1.867,1.869,1.869,0,0,1-1.866,1.866,1.868,1.868,0,0,1-1.764-1.254.218.218,0,0,0-.111-.126.219.219,0,0,0-.168-.01.22.22,0,0,0-.135.279,2.307,2.307,0,0,0,2.178,1.549,2.308,2.308,0,0,0,2.306-2.306Zm-2.662.734.509-.509a.214.214,0,0,0,.041-.056h0a.218.218,0,0,0,.022-.1v-1.3a.216.216,0,0,0-.216-.216.216.216,0,0,0-.216.216V2.288l-.447.446a.217.217,0,0,0,0,.306.217.217,0,0,0,.153.063.216.216,0,0,0,.153-.063Z" transform="translate(2046.575 0.576)" fill="#f3f3f3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

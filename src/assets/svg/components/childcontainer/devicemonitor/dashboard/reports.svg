@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59" height="60" viewBox="0 0 59 60">
+  <g id="Group_5968" data-name="Group 5968" transform="translate(-66.603 -27.275)">
+    <rect id="Rectangle_4882" data-name="Rectangle 4882" width="7" height="27" rx="3" transform="translate(74.603 53.275)" fill="#3693ff" class="report_color" />
+    <path id="Path_12319" data-name="Path 12319" d="M-2.5,0A.5.5,0,0,1-2,.5l14,8a.5.5,0,0,1-.5.5c-.276,0-1.023-.224-1.023-.5L-2.779.749C-2.779.473-2.776,0-2.5,0Z" transform="translate(80.603 47.275)" fill="#3693ff"/>
+    <path id="Path_12320" data-name="Path 12320" d="M22.5-4a.5.5,0,0,1,.5.5l-12,15a.5.5,0,0,1-1,0l12-15A.5.5,0,0,1,22.5-4Z" transform="translate(81.603 44.275)" fill="#3693ff"/>
+    <path id="Path_12321" data-name="Path 12321" d="M24.5,0a.5.5,0,0,1,.5.5l-14,11a.5.5,0,0,1-1,0L24,.5A.5.5,0,0,1,24.5,0Z" transform="translate(93.603 29.275)" fill="#3693ff"/>
+    <rect id="Rectangle_4886" data-name="Rectangle 4886" width="2" height="59" rx="1" transform="translate(66.603 87.275) rotate(-90)" fill="#3693ff" class="report_color"/>
+    <rect id="Rectangle_4887" data-name="Rectangle 4887" width="2" height="59" rx="1" transform="translate(66.603 28.275)" fill="#3693ff" class="report_color"/>
+    <rect id="Rectangle_4883" data-name="Rectangle 4883" width="6" height="20" rx="3" transform="translate(88.603 60.275)" fill="#3693ff" class="report_color"/>
+    <rect id="Rectangle_4884" data-name="Rectangle 4884" width="7" height="34" rx="3" transform="translate(100.603 46.275)" fill="#3693ff" class="report_color"/>
+    <rect id="Rectangle_4885" data-name="Rectangle 4885" width="7" height="46" rx="3" transform="translate(114.603 34.275)" fill="#3693ff" class="report_color"/>
+    <circle id="Ellipse_429" data-name="Ellipse 429" cx="2.5" cy="2.5" r="2.5" transform="translate(75.603 45.275)" fill="#3693ff" class="report_color"/>
+    <circle id="Ellipse_430" data-name="Ellipse 430" cx="2.5" cy="2.5" r="2.5" transform="translate(89.603 53.275)" fill="#3693ff" class="report_color"/>
+    <circle id="Ellipse_431" data-name="Ellipse 431" cx="2.5" cy="2.5" r="2.5" transform="translate(101.603 38.275)" fill="#3693ff" class="report_color"/>
+    <circle id="Ellipse_432" data-name="Ellipse 432" cx="2.5" cy="2.5" r="2.5" transform="translate(115.603 27.275)" fill="#3693ff" class="report_color"/>
+  </g>
+</svg>

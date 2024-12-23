@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51.337" height="47.695" viewBox="0 0 51.337 47.695">
+  <g id="router" transform="translate(-1 -2)">
+    <path id="Path_3265" data-name="Path 3265" d="M46.7,34.565H6.641A3.64,3.64,0,0,1,3,30.924V23.641A3.64,3.64,0,0,1,6.641,20H46.7a3.64,3.64,0,0,1,3.641,3.641v7.283A3.64,3.64,0,0,1,46.7,34.565Z" transform="translate(0 13.13)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Line_228" data-name="Line 228" x2="5.869" transform="translate(10.043 40.652)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Line_229" data-name="Line 229" y2="3.522" transform="translate(32.347 38.304)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Line_230" data-name="Line 230" y2="3.522" transform="translate(39.391 38.304)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+    <path id="Path_3266" data-name="Path 3266" d="M11,7.641A13.544,13.544,0,0,1,20.1,4a13.544,13.544,0,0,1,9.1,3.641M24.655,13.1a6.6,6.6,0,0,0-9.1,0" transform="translate(6.175 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+    <circle id="Ellipse_449" data-name="Ellipse 449" cx="2" cy="2" r="2" transform="translate(24.575 16.695)" fill="#fff"/>
+    <line id="Line_231" data-name="Line 231" y1="8.217" transform="translate(26.566 24.218)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+</svg>

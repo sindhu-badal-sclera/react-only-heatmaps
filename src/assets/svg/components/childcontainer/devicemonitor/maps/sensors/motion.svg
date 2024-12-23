@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88.118" height="88.118" viewBox="0 0 88.118 88.118">
+  <defs>
+    <filter id="Ellipse_52816ugde5tyhbf" x="14.874" y="19.405" width="58.595" height="58.597" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="motion" transform="translate(-3440.02 -389.566)">
+    <rect id="Rectangle_3856" data-name="Rectangle 3856" width="88.118" height="88.118" transform="translate(3440.02 389.566)" fill="none"/>
+    <g transform="matrix(1, 0, 0, 1, 3440.02, 389.57)" filter="url(#Ellipse_52816ugde5tyhbf)">
+      <path id="Ellipse_528-2" data-name="Ellipse 528" d="M20.3,0A20.3,20.3,0,1,1,0,20.3,20.3,20.3,0,0,1,20.3,0Z" transform="translate(23.87 25.41)" fill="#385be5"/>
+    </g>
+  </g>
+</svg>

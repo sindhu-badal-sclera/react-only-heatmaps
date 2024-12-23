@@ -1,0 +1,10 @@
+<svg id="delete" xmlns="http://www.w3.org/2000/svg" width="17.316" height="19.018" viewBox="0 0 17.316 19.018">
+  <g id="Artboard" transform="translate(1 1)">
+    <g id="trash-2">
+      <path id="Shape" d="M0,4H15.316" transform="translate(0 -0.596)" fill="none" stroke="#3693ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Shape-2" data-name="Shape" d="M13.912,3.4V15.316a1.7,1.7,0,0,1-1.7,1.7H3.7a1.7,1.7,0,0,1-1.7-1.7V3.4m2.553,0V1.7A1.7,1.7,0,0,1,6.254,0h3.4a1.7,1.7,0,0,1,1.7,1.7V3.4" transform="translate(-0.298 0)" fill="none" stroke="#3693ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Shape-3" data-name="Shape" d="M7,9v5.105" transform="translate(-1.044 -1.342)" fill="none" stroke="#3693ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Shape-4" data-name="Shape" d="M11,9v5.105" transform="translate(-1.64 -1.342)" fill="none" stroke="#3693ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

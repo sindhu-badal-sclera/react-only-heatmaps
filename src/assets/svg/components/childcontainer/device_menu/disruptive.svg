@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+  <g id="disruptive" transform="translate(-3765 -96)">
+    <g id="Rectangle_3455" data-name="Rectangle 3455" transform="translate(3765 96)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="17" height="17" rx="2" stroke="none"/>
+      <rect class="devicemonitor-disruptivepath-infoicon" x="0.5" y="0.5" width="16" height="16" rx="1.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_523" data-name="Ellipse 523" cx="1.5" cy="1.5" r="1.5" transform="translate(3766 97)" fill="#ffa200" class="devicemonitor-disruptivepath-infoicon-circle"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.335" height="26.335" viewBox="0 0 26.335 26.335">
+  <g id="othre" transform="translate(-13.75 -13.75)">
+    <path id="Path_3117" data-name="Path 3117" d="M36.453,13.75H17.382a3.637,3.637,0,0,0-3.632,3.632v19.07a3.637,3.637,0,0,0,3.632,3.632h19.07a3.637,3.637,0,0,0,3.632-3.632V17.382A3.637,3.637,0,0,0,36.453,13.75Zm2.179,22.7a2.182,2.182,0,0,1-2.179,2.179H17.382A2.182,2.182,0,0,1,15.2,36.453V17.382A2.182,2.182,0,0,1,17.382,15.2h19.07a2.182,2.182,0,0,1,2.179,2.179Z" fill="#35c900"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(18.134 18.567)">
+      <path id="Path_3124" data-name="Path 3124" d="M3.357,13.532H6.07v2.035H11.5V13.532h2.713V10.819h1.357V2H2v8.819H3.357Zm0-10.176H14.211V9.462H12.854v2.713H10.14v2.035H7.427V12.176H4.713V9.462H3.357Z" fill="#35c900"/>
+      <rect id="Rectangle_2875" data-name="Rectangle 2875" width="1" height="3" transform="translate(5.784 4.784)" fill="#35c900"/>
+      <rect id="Rectangle_2876" data-name="Rectangle 2876" width="1" height="3" transform="translate(8.284 4.784)" fill="#35c900"/>
+      <rect id="Rectangle_2877" data-name="Rectangle 2877" width="1" height="3" transform="translate(10.784 4.784)" fill="#35c900"/>
+    </g>
+  </g>
+</svg>

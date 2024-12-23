@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37.174" height="37" viewBox="0 0 37.174 37">
+  <g id="control" transform="translate(-2.5 -2.674)">
+    <path id="Path_3247" data-name="Path 3247" d="M0,0H34.174V3.883A3.883,3.883,0,0,1,30.29,7.767H3.883A3.883,3.883,0,0,1,0,3.883Z" transform="translate(38.174 38.174) rotate(180)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <ellipse id="Ellipse_446" data-name="Ellipse 446" cx="6.5" cy="6" rx="6.5" ry="6" transform="translate(10 4.174)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Line_226" data-name="Line 226" y1="14" transform="translate(16 16.174)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Line_227" data-name="Line 227" x1="3" transform="translate(27 24.174)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106.504" height="65.986" viewBox="0 0 106.504 65.986" >
+  <g id="ddsds" transform="translate(-1281 -523.244)">
+    <g id="Rectangle_4712" data-name="Rectangle 4712" transform="translate(1281 532.635)" fill="none" stroke="#3693ff" stroke-width="2" class="report_color2" >
+      <rect width="94.023" height="56.595" rx="5" stroke="none" />
+      <rect x="1" y="1" width="92.023" height="54.595" rx="4" fill="none" />
+    </g>
+    <rect id="Rectangle_4713" data-name="Rectangle 4713" width="21.551" height="10.775" rx="2" transform="translate(1288.533 543.725)" fill="#3693ff" class="report_color"/>
+    <rect id="Rectangle_4716" data-name="Rectangle 4716" width="21.551" height="10.775" rx="2" transform="translate(1288.533 557.066)" fill="#3693ff" class="report_color"/>
+    <rect id="Rectangle_4719" data-name="Rectangle 4719" width="21.551" height="10.775" rx="2" transform="translate(1288.533 570.922)" fill="#3693ff" class="report_color"/>
+    <rect id="Rectangle_4714" data-name="Rectangle 4714" width="21.551" height="10.775" rx="2" transform="translate(1317.241 543.725)" fill="#3693ff" class="report_color"/>
+    <rect id="Rectangle_4718" data-name="Rectangle 4718" width="21.551" height="10.775" rx="2" transform="translate(1345.363 543.725)" fill="#3693ff" class="report_color"/>
+    <rect id="Rectangle_4715" data-name="Rectangle 4715" width="21.551" height="10.775" rx="2" transform="translate(1317.241 557.066)" fill="#3693ff" class="report_color"/>
+    <rect id="Rectangle_4720" data-name="Rectangle 4720" width="21.551" height="10.775" rx="2" transform="translate(1317.241 570.922)" fill="#3693ff" class="report_color"/>
+    <rect id="Rectangle_4717" data-name="Rectangle 4717" width="21.551" height="10.775" rx="2" transform="translate(1345.363 557.066)" fill="#3693ff" class="report_color"/>
+    <rect id="Rectangle_4721" data-name="Rectangle 4721" width="21.551" height="10.775" rx="2" transform="translate(1345.363 570.922)" fill="#3693ff" class="report_color"/>
+    <path id="Path_10115" data-name="Path 10115" d="M10.74,0A10.74,10.74,0,1,0,21.48,10.74,10.741,10.741,0,0,0,10.74,0ZM9.4,9.4a1.343,1.343,0,0,1,2.685,0V16.11a1.343,1.343,0,0,1-2.685,0ZM10.74,6.734a1.343,1.343,0,1,1,1.343-1.343A1.343,1.343,0,0,1,10.74,6.734Z" transform="translate(1366.024 523.244)" fill="#3693ff"/>
+  </g>
+</svg>
