@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="357" height="357" viewBox="0 0 357 357">
+  <g id="Group_5910" data-name="Group 5910" transform="translate(-33 18191)">
+    <g id="Ellipse_1108" data-name="Ellipse 1108" transform="translate(82 -18138)" fill="none" stroke="#e5303e" stroke-width="31">
+      <circle cx="129" cy="129" r="129" stroke="none"/>
+      <circle cx="129" cy="129" r="113.5" fill="none"/>
+    </g>
+    <path id="Subtraction_89" data-name="Subtraction 89" d="M83,166a82.613,82.613,0,0,1-46.406-14.175A83.241,83.241,0,0,1,6.523,115.307a82.891,82.891,0,0,1,7.652-78.713A83.241,83.241,0,0,1,50.692,6.523a82.891,82.891,0,0,1,78.713,7.652,83.241,83.241,0,0,1,30.071,36.517,82.891,82.891,0,0,1-7.652,78.713,83.241,83.241,0,0,1-36.517,30.071A82.481,82.481,0,0,1,83,166ZM52.369,75.7a7.587,7.587,0,1,0,0,15.174H75.13v22.761a7.587,7.587,0,0,0,15.174,0V90.87h22.761a7.587,7.587,0,0,0,0-15.174H90.3V52.935a7.587,7.587,0,1,0-15.174,0V75.7Z" transform="translate(128 -18092)" fill="#4880bd"/>
+    <rect id="Rectangle_4851" data-name="Rectangle 4851" width="21" height="117" rx="10.5" transform="translate(201 -18191)" fill="#4880bd"/>
+    <rect id="Rectangle_4854" data-name="Rectangle 4854" width="21" height="117" rx="10.5" transform="translate(33 -18002) rotate(-90)" fill="#4880bd"/>
+    <rect id="Rectangle_4852" data-name="Rectangle 4852" width="21" height="117" rx="10.5" transform="translate(201 -17951)" fill="#4880bd"/>
+    <rect id="Rectangle_4853" data-name="Rectangle 4853" width="21" height="117" rx="10.5" transform="translate(273 -18002) rotate(-90)" fill="#4880bd"/>
+  </g>
+</svg>

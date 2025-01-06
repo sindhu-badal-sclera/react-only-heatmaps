@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <filter id="Rectangle_2599" x="0" y="0" width="75" height="75" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="phone" transform="translate(-773 -1126)">
+    <g transform="matrix(1, 0, 0, 1, 773, 1126)" filter="url(#Rectangle_2599)">
+      <rect id="Rectangle_2599-2" data-name="Rectangle 2599" width="57" height="57" rx="5" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <circle id="Ellipse_329" data-name="Ellipse 329" cx="2.5" cy="2.5" r="2.5" transform="translate(785 1135)" fill="#f79631"/>
+    <path id="Path_3193" data-name="Path 3193" d="M22.47,18.395c-2.026-.184-3.131,2.578-4.6,3.315-2.394,1.289-6.814-3.315-6.814-3.315s-4.6-4.42-3.5-6.814c.921-1.473,3.683-2.578,3.5-4.6C10.868,5.135,6.816-1.5,4.79.346.37,4.4,0,6.055,0,9.37-.183,15.08,7.184,22.262,7.184,22.262c.737.737,7.183,7.367,12.892,7.183,3.315,0,4.973-.368,9.024-4.788,1.842-2.026-4.6-6.078-6.63-6.262Z" transform="translate(807.947 1149.449) rotate(8)"/>
+  </g>
+</svg>

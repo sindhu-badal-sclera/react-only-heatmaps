@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="15" viewBox="0 0 16 15">
+  <g id="Group_668" data-name="Group 668" transform="translate(-6070 74.57)">
+    <g id="Group_668-2" data-name="Group 668" transform="translate(2 -7.459)">
+      <path id="mark_email_read_FILL0_wght400_GRAD0_opsz48" d="M11.99,13.481,18.7,9.2H5.285Zm0,1.2L5.2,10.329V19.4h5.139l1.2,1.2H5.2A1.235,1.235,0,0,1,4,19.4V9.2A1.235,1.235,0,0,1,5.2,8H18.8A1.235,1.235,0,0,1,20,9.2v4.9l-1.2,1.2V10.329ZM12.01,14.866ZM11.99,13.481ZM12.01,14.685Z" transform="translate(6064 -75.111)" fill="#3793ff"/>
+      <path id="add_FILL0_wght400_GRAD0_opsz48_5_" data-name="add_FILL0_wght400_GRAD0_opsz48 (5)" d="M14,18a.415.415,0,0,1-.429-.429V14.429H10.429a.429.429,0,1,1,0-.857h3.143V10.429a.429.429,0,1,1,.857,0v3.143h3.143a.429.429,0,1,1,0,.857H14.429v3.143A.415.415,0,0,1,14,18Z" transform="translate(6066 -70.111)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

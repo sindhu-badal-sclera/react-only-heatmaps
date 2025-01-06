@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64.043" height="64.043" viewBox="0 0 64.043 64.043">
+  <g id="tilt" transform="translate(1.072 1.072)">
+    <g id="Ellipse_243" data-name="Ellipse 243" transform="translate(62.971 29.831) rotate(133)" fill="none" stroke="#00cd8f" stroke-linecap="round" stroke-width="4" stroke-dasharray="51 18">
+      <ellipse cx="22.656" cy="22.656" rx="22.656" ry="22.656" stroke="none"/>
+      <ellipse cx="22.656" cy="22.656" rx="20.656" ry="20.656" fill="none"/>
+    </g>
+    <circle id="Ellipse_242" data-name="Ellipse 242" cx="3.398" cy="3.398" r="3.398" transform="translate(28.002 27.55)" fill="#00cd8f"/>
+    <rect id="Rectangle_2369" data-name="Rectangle 2369" width="50.977" height="2.266" rx="1.133" transform="translate(5.587 24.083) rotate(13)" fill="#00cd8f"/>
+  </g>
+</svg>

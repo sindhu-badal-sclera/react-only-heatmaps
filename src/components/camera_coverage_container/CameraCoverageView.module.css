@@ -1,0 +1,45 @@
+/* Sidebar styles */
+.sidebar {
+    width: 300px;
+    padding: 10px;
+    background-color: #303030;
+    color: white;
+    overflow-y: auto;
+  }
+  
+  .sidebar h3 {
+    margin-top: 0;
+  }
+  
+  .sidebar label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+
+  .sidebar-button:disabled {
+    background-color: gray;
+    cursor: not-allowed;
+  }
+  
+  /* Popup button styles */
+  .delete-button {
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .delete-button:hover {
+    background-color: darkred;
+  }
+  
+  /* Range input styles */
+  .range-input {
+    width: 100%;
+    margin-top: 5px;
+  }
+  

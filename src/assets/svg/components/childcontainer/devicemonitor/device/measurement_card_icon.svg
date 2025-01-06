@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.038" height="10.64" viewBox="0 0 16.038 10.64">
+  <defs>
+    <linearGradient id="linear-gradienthbygujhbkj" y1="0.834" x2="1.115" y2="0.872" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0071bc"/>
+      <stop offset="0.494" stop-color="#fbae3b"/>
+      <stop offset="1" stop-color="#ed1c24"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_365" data-name="Group 365" transform="translate(-966 -404.684)">
+    <path id="Path_227" data-name="Path 227" d="M8.019,5.482a6.02,6.02,0,0,1,1.027.087c.351-.44.744-.925,1.127-1.386a7.75,7.75,0,0,0-2.154-.306C3.523,3.878,0,7.67,0,12.511c0,.3.013.6.039.885a.8.8,0,1,0,1.6-.143q-.033-.37-.033-.742C1.6,8.569,4.422,5.482,8.019,5.482Zm5.789,1c-.224.6-.46,1.214-.669,1.743a7.511,7.511,0,0,1,1.3,4.284c0,.253-.012.509-.034.756a.8.8,0,0,0,1.6.146c.026-.3.041-.6.041-.9a8.97,8.97,0,0,0-2.23-6.027Z" transform="translate(966 401.197)" fill="url(#linear-gradienthbygujhbkj)"/>
+    <path id="Path_230" data-name="Path 230" d="M6.07,10.31a1.243,1.243,0,0,0,.493,1.841A1.242,1.242,0,0,0,8.4,11.657c.464-.805,3.4-8,3.145-8.143S6.535,9.5,6.07,10.31Z" transform="translate(967.492 401.172)" fill="#3682da"/>
+  </g>
+</svg>

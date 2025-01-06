@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90.153" height="90.153" viewBox="0 0 90.153 90.153">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#d9d200" stop-opacity="0.651"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#d9d200" stop-opacity="0.522"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_5782" data-name="Group 5782" transform="translate(-577.809 -373.713)">
+    <circle id="Ellipse_1025" data-name="Ellipse 1025" cx="45.077" cy="45.077" r="45.077" transform="translate(577.809 373.713)" opacity="0.99" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_1024" data-name="Ellipse 1024" cx="27.979" cy="27.979" r="27.979" transform="translate(594.906 390.812)" fill="url(#radial-gradient-2)"/>
+    <g id="light" transform="translate(640.757 433.261) rotate(180)">
+      <path id="Path_1676" data-name="Path 1676" d="M17.257,24.653a9.4,9.4,0,0,1-1.948-.2A9.861,9.861,0,0,1,10.7,7.4a1.233,1.233,0,0,0,.394-.851V3.7a3.7,3.7,0,0,1,3.7-3.7h4.931a3.7,3.7,0,0,1,3.7,3.7V6.545a1.233,1.233,0,0,0,.37.875,9.861,9.861,0,0,1-6.533,17.233Zm0,7.4a1.233,1.233,0,0,1-1.233-1.233V28.351a1.233,1.233,0,0,1,2.465,0v2.465A1.233,1.233,0,0,1,17.257,32.049Zm-11.328-4.7a1.227,1.227,0,0,1-.875-2.1l1.738-1.75a1.238,1.238,0,0,1,1.75,1.75L6.792,27A1.233,1.233,0,0,1,5.929,27.353ZM3.7,16.025H1.233a1.233,1.233,0,1,1,0-2.465H3.7a1.233,1.233,0,0,1,0,2.465ZM28.585,27.353A1.233,1.233,0,0,1,27.722,27l-1.75-1.738a1.238,1.238,0,1,1,1.75-1.75l1.738,1.75a1.227,1.227,0,0,1-.875,2.1Zm4.7-11.328H30.816a1.233,1.233,0,1,1,0-2.465h2.465a1.233,1.233,0,1,1,0,2.465Z" transform="translate(0 0)" fill="#ffd500"/>
+    </g>
+  </g>
+</svg>

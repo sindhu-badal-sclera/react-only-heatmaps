@@ -1,0 +1,13 @@
+<svg id="inprogress" xmlns="http://www.w3.org/2000/svg" width="47.295" height="49.57" viewBox="0 0 47.295 49.57">
+  <path id="Path_1747" data-name="Path 1747" d="M11.434,29.313l8.933,9.324,16.4-17.1-8.938-9.319Zm35.715-12.8-3.8-3.968a4.935,4.935,0,0,1-6.041-.9,5.484,5.484,0,0,1-.869-6.3l-3.8-3.968a2.484,2.484,0,0,0-3.6,0L1.34,30.266a2.751,2.751,0,0,0,0,3.758l3.8,3.963a4.935,4.935,0,0,1,6.046.9,5.484,5.484,0,0,1,.864,6.308l3.8,3.963a2.479,2.479,0,0,0,3.6,0L47.149,20.273a2.746,2.746,0,0,0,0-3.758ZM20.367,42.9,7.347,29.313,27.828,7.949l13.02,13.583L20.367,42.9Z" transform="translate(-0.598 -0.599)" fill="#ffaf47"/>
+  <g id="Group_2274" data-name="Group 2274" transform="translate(23.787 26.584)">
+    <circle id="Ellipse_279" data-name="Ellipse 279" cx="11.493" cy="11.493" r="11.493" transform="translate(0 0)" fill="#dfff03"/>
+    <g id="Page-1" transform="translate(5.695 5.337)">
+      <g id="Artboard" transform="translate(6.156 0) rotate(45)">
+        <g id="check" transform="translate(0 0)">
+          <path id="Shape" d="M8.706,0,0,8.706" fill="none" stroke="#181818" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

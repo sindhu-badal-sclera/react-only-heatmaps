@@ -1,0 +1,10 @@
+<svg id="network_topology" xmlns="http://www.w3.org/2000/svg" width="15.27" height="15.27" viewBox="0 0 15.27 15.27">
+  <path id="Path_1717" data-name="Path 1717" d="M10.774,16.15c-.266-.562-1.182-2.5-1.765-3.789l.464-.21c.583,1.288,1.5,3.219,1.762,3.78ZM9.513,22.245l-.229-.1H9.027a.266.266,0,0,1,.023-.109l1.741-3.792.229.1h.257v0a.255.255,0,0,1-.023.106Zm10.694,0-1.741-3.792a.254.254,0,0,1-.023-.106H18.7l.229-.1,1.741,3.792a.255.255,0,0,1,.023.106h-.257Zm-1.278-6.108-.229-.1h-.257a.266.266,0,0,1,.023-.109l1.741-3.792.229.1h.257v0a.255.255,0,0,1-.023.106Z" transform="translate(-7.225 -9.554)" fill="#fff"/>
+  <rect class="devicemonitor-networktopologypath-infoicon" id="Rectangle_2394" data-name="Rectangle 2394" width="4.072" height="0.509" transform="translate(5.599 7.38)" fill="#fff"/>
+  <circle id="Ellipse_245" data-name="Ellipse 245" cx="1.527" cy="1.527" r="1.527" transform="translate(0 0)" fill="#fff"/>
+  <circle id="Ellipse_246" data-name="Ellipse 246" cx="1.527" cy="1.527" r="1.527" transform="translate(0 12.216)" fill="#fff"/>
+  <circle id="Ellipse_247" data-name="Ellipse 247" cx="1.527" cy="1.527" r="1.527" transform="translate(2.799 6.108)" fill="#fff"/>
+  <circle id="Ellipse_248" data-name="Ellipse 248" cx="1.527" cy="1.527" r="1.527" transform="translate(12.216 0)" fill="#fff"/>
+  <circle id="Ellipse_249" data-name="Ellipse 249" cx="1.527" cy="1.527" r="1.527" transform="translate(12.216 12.216)" fill="#fff"/>
+  <circle id="Ellipse_250" data-name="Ellipse 250" cx="1.527" cy="1.527" r="1.527" transform="translate(9.416 6.108)" fill="#fff"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176.441" height="158.022" viewBox="0 0 176.441 158.022">
+  <g id="category__based_sensor_alerts" data-name="category _based_sensor_alerts" transform="translate(4)">
+    <g id="Group_61" data-name="Group 61" transform="translate(0 6.33)">
+      <path id="Path_109" data-name="Path 109" d="M-292.347,1833.607V1981.3h147.692" transform="translate(292.347 -1833.607)" fill="none" stroke="#9f9f9f" stroke-linecap="round" stroke-width="8"/>
+      <g id="Group_59" data-name="Group 59" transform="translate(16.555 17.934)">
+        <path id="Path_110" data-name="Path 110" d="M-282.18,1463.8-255.069,1425l37.955.938,37.8-32.463" transform="translate(290.147 -1386.148)" fill="none" stroke="#efd700" stroke-width="9"/>
+        <circle id="Ellipse_18" data-name="Ellipse 18" cx="8.44" cy="8.44" r="8.44" transform="translate(0 69.626)" fill="#fff" stroke="#000" stroke-width="2"/>
+        <circle id="Ellipse_19" data-name="Ellipse 19" cx="8.44" cy="8.44" r="8.44" transform="translate(26.565 29.538)" fill="#fff" stroke="#000" stroke-width="2"/>
+        <circle id="Ellipse_20" data-name="Ellipse 20" cx="8.44" cy="8.44" r="8.44" transform="translate(63.348 31.648)" fill="#fff" stroke="#000" stroke-width="2"/>
+        <circle id="Ellipse_21" data-name="Ellipse 21" cx="8.44" cy="8.44" r="8.44" transform="translate(102.108 0)" fill="#fff" stroke="#000" stroke-width="2"/>
+      </g>
+      <g id="Group_60" data-name="Group 60" transform="translate(15.5 61.187)">
+        <path id="Path_111" data-name="Path 111" d="M-282.18,1458.253l27.111-30.366,37.955,11.487,42.022-40.9" transform="translate(290.147 -1393.258)" fill="none" stroke="#008531" stroke-width="9"/>
+        <circle id="Ellipse_22" data-name="Ellipse 22" cx="8.44" cy="8.44" r="8.44" transform="translate(0 56.967)" fill="#fff" stroke="#000" stroke-width="2"/>
+        <circle id="Ellipse_23" data-name="Ellipse 23" cx="8.44" cy="8.44" r="8.44" transform="translate(26.565 25.319)" fill="#fff" stroke="#000" stroke-width="2"/>
+        <circle id="Ellipse_24" data-name="Ellipse 24" cx="8.44" cy="8.44" r="8.44" transform="translate(63.348 35.868)" fill="#fff" stroke="#000" stroke-width="2"/>
+        <circle id="Ellipse_25" data-name="Ellipse 25" cx="8.44" cy="8.44" r="8.44" transform="translate(103.16 0)" fill="#fff" stroke="#000" stroke-width="2"/>
+      </g>
+    </g>
+    <path id="Icon_awesome-clock" data-name="Icon awesome-clock" d="M17.158.563a16.6,16.6,0,1,0,16.6,16.6A16.592,16.592,0,0,0,17.158.563ZM23.088,26.1l-8.012-6.4a.808.808,0,0,1-.328-.649V3.57a.805.805,0,0,1,.8-.8h3.212a.805.805,0,0,1,.8.8V17l6.359,5.2a.8.8,0,0,1,.174,1.124l-1.887,2.6A.809.809,0,0,1,23.088,26.1Z" transform="translate(138.69 -0.563)" fill="#3693ff"/>
+  </g>
+</svg>

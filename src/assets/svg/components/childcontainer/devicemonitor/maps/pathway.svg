@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <g id="Group_168166" data-name="Group 168166" transform="translate(-8333 -15151.186)">
+    <circle id="Ellipse_1115" data-name="Ellipse 1115" cx="9.5" cy="9.5" r="9.5" transform="translate(8333 15151.186)" fill="#055a75"/>
+    <g id="Group_168163" data-name="Group 168163" transform="translate(8331.419 15154.912)">
+      <g id="Group_168161" data-name="Group 168161" transform="translate(10.184 0)">
+        <g id="Group_168162" data-name="Group 168162" transform="translate(0 0)">
+          <g id="Rectangle_5990" data-name="Rectangle 5990" transform="translate(0)" fill="none" stroke="#fff" stroke-width="0.8">
+            <rect width="5.878" height="11.546" stroke="none"/>
+            <rect x="-0.4" y="-0.4" width="6.678" height="12.346" fill="none"/>
+          </g>
+          <g id="Group_168155" data-name="Group 168155" transform="translate(1.064 1.091)">
+            <rect id="Rectangle_5991" data-name="Rectangle 5991" width="0.886" height="0.886" fill="#fff"/>
+            <rect id="Rectangle_5992" data-name="Rectangle 5992" width="0.886" height="0.886" transform="translate(1.418)" fill="#fff"/>
+            <rect id="Rectangle_5993" data-name="Rectangle 5993" width="0.886" height="0.886" transform="translate(2.835)" fill="#fff"/>
+          </g>
+          <g id="Group_168156" data-name="Group 168156" transform="translate(1.064 2.863)">
+            <rect id="Rectangle_5991-2" data-name="Rectangle 5991" width="0.886" height="0.886" fill="#fff"/>
+            <rect id="Rectangle_5992-2" data-name="Rectangle 5992" width="0.886" height="0.886" transform="translate(1.418)" fill="#fff"/>
+            <rect id="Rectangle_5993-2" data-name="Rectangle 5993" width="0.886" height="0.886" transform="translate(2.835)" fill="#fff"/>
+          </g>
+          <g id="Group_168157" data-name="Group 168157" transform="translate(1.064 4.635)">
+            <rect id="Rectangle_5991-3" data-name="Rectangle 5991" width="0.886" height="0.886" fill="#fff"/>
+            <rect id="Rectangle_5992-3" data-name="Rectangle 5992" width="0.886" height="0.886" transform="translate(1.418)" fill="#fff"/>
+            <rect id="Rectangle_5993-3" data-name="Rectangle 5993" width="0.886" height="0.886" transform="translate(2.835)" fill="#fff"/>
+          </g>
+          <g id="Group_168158" data-name="Group 168158" transform="translate(1.064 6.407)">
+            <rect id="Rectangle_5991-4" data-name="Rectangle 5991" width="0.886" height="0.886" fill="#fff"/>
+            <rect id="Rectangle_5992-4" data-name="Rectangle 5992" width="0.886" height="0.886" transform="translate(1.418)" fill="#fff"/>
+            <rect id="Rectangle_5993-4" data-name="Rectangle 5993" width="0.886" height="0.886" transform="translate(2.835)" fill="#fff"/>
+          </g>
+          <rect id="Rectangle_5994" data-name="Rectangle 5994" width="1.469" height="2.519" transform="translate(2.309 8.607)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Icon_feather-arrow-left" data-name="Icon feather-arrow-left" transform="translate(4.032 3.817)">
+        <path id="Path_11508" data-name="Path 11508" d="M7.5,18h3.912" transform="translate(-7.5 -16.044)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.65"/>
+        <path id="Path_11509" data-name="Path 11509" d="M7.5,11.412,9.456,9.456,7.5,7.5" transform="translate(-5.544 -7.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.65"/>
+      </g>
+    </g>
+  </g>
+</svg>

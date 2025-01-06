@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98" height="98" viewBox="0 0 98 98">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0.16" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.519" stop-color="#868686"/>
+      <stop offset="1" stop-color="#d3d3d3"/>
+    </linearGradient>
+    <filter id="Ellipse_1010" x="0" y="0" width="98" height="98" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1011" x="6" y="6" width="86" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_5787" data-name="Group 5787" transform="translate(-992 -7297)">
+    <g transform="matrix(1, 0, 0, 1, 992, 7297)" filter="url(#Ellipse_1010)">
+      <circle id="Ellipse_1010-2" data-name="Ellipse 1010" cx="40" cy="40" r="40" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 992, 7297)" filter="url(#Ellipse_1011)">
+      <circle id="Ellipse_1011-2" data-name="Ellipse 1011" cx="34" cy="34" r="34" transform="translate(15 12)" fill="#fff"/>
+    </g>
+    <path id="Icon_ionic-md-lock" data-name="Icon ionic-md-lock" d="M39.107,19.413H36.8V14.791a11.556,11.556,0,1,0-23.112,0v4.622H11.372A4.636,4.636,0,0,0,6.75,24.036V47.148a4.636,4.636,0,0,0,4.622,4.622H39.107a4.636,4.636,0,0,0,4.622-4.622V24.036A4.636,4.636,0,0,0,39.107,19.413ZM25.24,40.445a4.622,4.622,0,1,1,4.622-4.622A4.636,4.636,0,0,1,25.24,40.445Zm7.165-21.032H18.075V14.791a7.165,7.165,0,1,1,14.33,0Z" transform="translate(1015.76 7312.477)" fill="#f80"/>
+  </g>
+</svg>

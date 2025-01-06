@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.547" height="36.492" viewBox="0 0 40.547 36.492">
+  <g id="modem" transform="translate(-2 -4)">
+    <path id="Path_3267" data-name="Path 3267" d="M36.972,20.219h-.507V6.027a2.027,2.027,0,1,0-4.055,0V20.219H7.575A5.575,5.575,0,0,0,2,25.794v9.123a5.575,5.575,0,0,0,5.575,5.575h29.4a5.575,5.575,0,0,0,5.575-5.575V25.794A5.575,5.575,0,0,0,36.972,20.219Zm1.521,14.7a1.541,1.541,0,0,1-1.521,1.521H7.575a1.541,1.541,0,0,1-1.521-1.521V25.794a1.541,1.541,0,0,1,1.521-1.521h29.4a1.541,1.541,0,0,1,1.521,1.521Z" fill="#fff"/>
+    <ellipse id="Ellipse_450" data-name="Ellipse 450" cx="1.873" cy="2.248" rx="1.873" ry="2.248" transform="translate(10.243 27.981)" fill="#fff"/>
+    <ellipse id="Ellipse_451" data-name="Ellipse 451" cx="1.873" cy="2.248" rx="1.873" ry="2.248" transform="translate(18.487 27.981)" fill="#fff"/>
+    <circle id="Ellipse_452" data-name="Ellipse 452" cx="2.248" cy="2.248" r="2.248" transform="translate(25.981 27.981)" fill="#fff"/>
+  </g>
+</svg>

@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import CameraCoverageView from "./components/camera_coverage_container/CameraCoverageView";
 import WifiHeatmapVisualizer from "./components/wifiheatmap_container/WifiHeatmapVisualizer";
+import "./App.css";
 
 function App() {
   const [activeTab, setActiveTab] = useState("wifi");
@@ -12,43 +13,25 @@ function App() {
 
   return (
     <Router>
-      <div style={{ width: "100vw", height: "100vh" }}>
+      <div className="app-container">
         {/* Navigation bar */}
-        <nav
-          style={{
-            height: "50px",
-            color: "white",
-            display: "flex",
-            justifyContent: "space-around",
-          }}
-        >
-
-          <Link to="/" style={{
-            color: "white", textDecoration: "none", backgroundColor: activeTab === "wifi" ? "grey" : "inherit",
-            width: "50%",
-            height: "50px",
-            display: "flex",
-            justifyContent: "center",
-            alignItems: "center",
-          }}
+        <nav className="navbar">
+          <Link
+            to="/"
+            className={`nav-link ${activeTab === "wifi" ? "active-tab" : ""}`}
             onClick={() => handleClick("wifi")}
-          > WiFi Heatmaps
+          >
+            WiFi Heatmaps
           </Link>
 
-
-          <Link to="/cctv" style={{
-            color: "white", textDecoration: "none", backgroundColor: activeTab === "cctv" ? "grey" : "inherit",
-            width: "50%",
-            height: "50px",
-            display: "flex",
-            justifyContent: "center",
-            alignItems: "center",
-          }}
-
-            onClick={() => handleClick("cctv")}>
+          <Link
+            to="/cctv"
+            className={`nav-link ${activeTab === "cctv" ? "active-tab" : ""}`}
+            onClick={() => handleClick("cctv")}
+          >
             CCTV Cameras
           </Link>
-           </nav>
+        </nav>
 
         {/* Define Routes */}
         <Routes>

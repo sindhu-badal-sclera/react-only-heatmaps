@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.551" height="54.029" viewBox="0 0 38.551 54.029">
+  <defs>
+    <linearGradient id="linear-gradientsuhfsfueihuehofshosfhsrhduoew4893789378324788734" x1="0.5" y1="0.233" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dcdcdc"/>
+      <stop offset="0.645" stop-color="#7db7df"/>
+      <stop offset="1" stop-color="#0388e2"/>
+    </linearGradient>
+    <filter id="humidityjsfhojhsejfheflfdfkgnjdfrreuyeuruewru5674rw8ueerfh" x="0" y="0" width="38.551" height="54.029" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-color="#5baae0" flood-opacity="0.478"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#humidityjsfhojhsejfheflfdfkgnjdfrreuyeuruewru5674rw8ueerfh)">
+    <path id="humidity-2" data-name="humidity" d="M20.213,47.029A14.776,14.776,0,0,0,33.429,25.647l-11.2-22.4a2.25,2.25,0,0,0-4.026,0L7,25.647A14.776,14.776,0,0,0,20.213,47.029Z" transform="translate(-0.94 -0.5)" fill-rule="evenodd" fill="url(#linear-gradientsuhfsfueihuehofshosfhsrhduoew4893789378324788734)"/>
+  </g>
+</svg>

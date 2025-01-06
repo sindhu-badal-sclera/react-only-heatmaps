@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121.753" height="120.996" viewBox="0 0 121.753 120.996">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.474" stop-color="#f3fdfa" stop-opacity="0.024"/>
+      <stop offset="1" stop-color="#00cd8f" stop-opacity="0.522"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_5786" data-name="Group 5786" transform="translate(-967.247 -1060.62)">
+    <path id="Subtraction_80" data-name="Subtraction 80" d="M89.177,110.993H40.2a64.454,64.454,0,0,1-16.233-9.732A65.769,65.769,0,0,1,23.8-.246,64.48,64.48,0,0,1,39.924-10H89.454a65.258,65.258,0,0,1,32.3,29.6V81.281a65.219,65.219,0,0,1-32.573,29.712Z" transform="translate(967.25 1070.623)" opacity="0.6" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_1030" data-name="Ellipse 1030" cx="43.808" cy="44.52" rx="43.808" ry="44.52" transform="translate(988.131 1076.541)" opacity="0.6" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_1029" data-name="Ellipse 1029" cx="27.743" cy="28.455" rx="27.743" ry="28.455" transform="translate(1004.196 1092.605)" opacity="0.6" fill="url(#radial-gradient)"/>
+    <g id="beacon" transform="translate(1016.791 1105.383)">
+      <rect id="Rectangle_3861" data-name="Rectangle 3861" width="30.299" height="31.344" transform="translate(0 0)" fill="none"/>
+      <path id="Path_3539" data-name="Path 3539" d="M16.763,13.884a3.881,3.881,0,1,0-5.175,3.649v5.408H9v2.588h7.763V22.941H14.175V17.533a3.881,3.881,0,0,0,2.588-3.649Z" transform="translate(2.264 3.079)" fill="#00cd8f"/>
+      <path id="Path_3540" data-name="Path 3540" d="M20.448,21.526a8.953,8.953,0,0,0,2.665-6.469A9.057,9.057,0,1,0,5,15.057a8.953,8.953,0,0,0,2.665,6.469L9.49,19.689a6.379,6.379,0,0,1-1.9-4.632,6.469,6.469,0,1,1,12.938,0,6.379,6.379,0,0,1-1.889,4.567Z" transform="translate(1.09 1.906)" fill="#00cd8f"/>
+      <path id="Path_3541" data-name="Path 3541" d="M15.233,2A14.232,14.232,0,0,0,5.167,26.3l1.824-1.824a11.644,11.644,0,1,1,16.47,0L25.286,26.3A14.232,14.232,0,0,0,15.233,2Z" transform="translate(-0.087 0.731)" fill="#00cd8f"/>
+    </g>
+  </g>
+</svg>

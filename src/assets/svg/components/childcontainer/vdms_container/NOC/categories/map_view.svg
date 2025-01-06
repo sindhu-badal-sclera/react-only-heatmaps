@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168.463" height="146.432" viewBox="0 0 168.463 146.432">
+  <g id="map_view" transform="translate(3.5 1)">
+    <g id="Group_32" data-name="Group 32" transform="translate(0 79.439)">
+      <path id="Path_24" data-name="Path 24" d="M-583.852,3333.174h88.577l35.918,62.493-161.464,0Z" transform="translate(620.82 -3333.174)" fill="none" stroke="#c4b700" stroke-linejoin="round" stroke-width="7"/>
+      <path id="Path_25" data-name="Path 25" d="M-991,3767.185c1.147-.373,13.505-8.113,28.155-17.415,22.3-14.16,49.886-31.936,49.886-31.936" transform="translate(1000.21 -3717.833)" fill="none" stroke="#c4b700" stroke-linecap="round" stroke-width="5"/>
+      <path id="Path_26" data-name="Path 26" d="M-991,3749.8c.743-.241,8.748-5.253,18.236-11.279,14.441-9.171,32.311-20.685,32.311-20.685" transform="translate(1078.25 -3689.908)" fill="none" stroke="#c4b700" stroke-linecap="round" stroke-width="5"/>
+      <path id="Path_27" data-name="Path 27" d="M-945.422,3746.656c-.67-.217-7.888-4.738-16.443-10.171-13.021-8.27-29.135-18.651-29.135-18.651" transform="translate(1032.672 -3686.208)" fill="none" stroke="#c4b700" stroke-linecap="round" stroke-width="5"/>
+    </g>
+    <path id="Icon_awesome-map-marker-alt" data-name="Icon awesome-map-marker-alt" d="M36.9,107.45C5.777,62.334,0,57.7,0,41.124a41.124,41.124,0,1,1,82.247,0c0,16.581-5.777,21.211-36.9,66.327a5.143,5.143,0,0,1-8.453,0Zm4.226-49.192A17.135,17.135,0,1,0,23.989,41.124,17.135,17.135,0,0,0,41.124,58.258Z" transform="translate(39.608 0)" fill="#3693ff" stroke="#000" stroke-width="2"/>
+  </g>
+</svg>
